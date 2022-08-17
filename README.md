@@ -1,8 +1,8 @@
 # Emoji-PNG
 
-## Emojis
+Extracted PNG images from Emoji font files
 
-Extracted PNG images from Emoji TTF files
+## Emojis
 
 1. **Apple Emoji** from [Keinta15/Magisk-iOS-Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji).
 2. **JoyPixels** from [JoyPixels® Official Site](https://www.joypixels.com/download).
