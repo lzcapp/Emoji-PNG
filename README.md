@@ -9,6 +9,12 @@ Extracted PNG images from Emoji font files.
 3. **Noto Emoji** from [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji).
 4. **Twemoji** from [Gontier-Julien/Twemoji-Remastered](https://github.com/Gontier-Julien/Twemoji-Remastered).
 
+| Apple Emoji                       | JoyPixels                       | Noto Emoji                       | Twemoji                       |
+| --------------------------------- | ------------------------------- | -------------------------------- | ----------------------------- |
+| ![](.\Apple Emoji\PNG\u1F60A.png) | ![](.\JoyPixels\PNG\u1F60A.png) | ![](.\Noto Emoji\PNG\u1F60A.png) | ![](.\Twemoji\PNG\u1F60A.png) |
+
+
+
 ## Extraction Methods
 
 - `pip install fonttools`, fontTools from [fonttools/fonttools](https://github.com/fonttools/fonttools).
