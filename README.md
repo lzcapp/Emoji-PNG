@@ -11,7 +11,7 @@ Extracted PNG images from Emoji font files.
 
 | Apple Emoji                       | JoyPixels                       | Noto Emoji                       | Twemoji                       |
 | --------------------------------- | ------------------------------- | -------------------------------- | ----------------------------- |
-| ![](.\Apple Emoji\PNG\u1F60A.png) | ![](.\JoyPixels\PNG\u1F60A.png) | ![](.\Noto Emoji\PNG\u1F60A.png) | ![](.\Twemoji\PNG\u1F60A.png) |
+| ![](https://github.com/lzcapp/Emoji-PNG/raw/main/Apple%20Emoji/PNG/u1F60A.png) | ![](https://github.com/lzcapp/Emoji-PNG/raw/main/JoyPixels/PNG/u1F60A.png) | ![](https://github.com/lzcapp/Emoji-PNG/raw/main/Noto%20Emoji/PNG/u1F60A.png) | ![](https://github.com/lzcapp/Emoji-PNG/raw/main/Twemoji/PNG/u1F60A.png) |
 
 
 
