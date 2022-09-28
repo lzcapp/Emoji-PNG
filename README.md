@@ -9,9 +9,9 @@ Extracted PNG images from Emoji font files.
 3. **Noto Emoji** from [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji).
 4. **Twemoji** from [Gontier-Julien/Twemoji-Remastered](https://github.com/Gontier-Julien/Twemoji-Remastered).
 
-| Apple Emoji                       | JoyPixels                       | Noto Emoji                       | Twemoji                       |
-| --------------------------------- | ------------------------------- | -------------------------------- | ----------------------------- |
-| <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Apple%20Emoji/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/JoyPixels/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Noto%20Emoji/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Twemoji/PNG/u1F60A.png" width="128" /> |
+| Apple Emoji                       | JoyPixels                       | Noto Emoji                    | Blobmoji                         | Twemoji                        |
+| --------------------------------- | ------------------------------- | ----------------------------- | -------------------------------- | ----------------------------- |
+| <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Apple%20Emoji/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/JoyPixels/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Noto%20Emoji/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Blobmoji/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Twemoji/PNG/u1F60A.png" width="128" /> |
 
 
 
