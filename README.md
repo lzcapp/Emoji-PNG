@@ -14,6 +14,7 @@ Extracted PNG images from Emoji font files.
   | Apple Emoji                       | Blobmoji                        | JoyPixels                     | Noto Emoji                       | Samsung One UI Emoji          | Twemoji                        |
   | --------------------------------- | ------------------------------- | ----------------------------- | -------------------------------- | ----------------------------- | ----------------------------- |
   | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Apple%20Emoji/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Blobmoji/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Noto%20Emoji/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/JoyPixels/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Samsung%20One%20UI/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Twemoji/PNG/u1F60A.png" width="128" /> |
+  | 136 × 128 | 136 × 128 | 136 × 128 | 136 × 128 | 108 × 108 | 76 × 72 |
 
 ## Extraction Method
 
