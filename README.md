@@ -15,7 +15,7 @@ Extracted PNG images from Emoji font files.
   | --------------------------------- | ------------------------------- | ----------------------------- | -------------------------------- | ----------------------------- | ----------------------------- |
   | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Apple%20Emoji/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Blobmoji/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Noto%20Emoji/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/JoyPixels/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Samsung%20One%20UI/PNG/u1F60A.png" width="128" /> | <img src="https://github.com/lzcapp/Emoji-PNG/raw/main/Twemoji/PNG/u1F60A.png" width="128" /> |
 
-## Extraction Methods
+## Extraction Method
 
 - `pip install fonttools`, fontTools from [fonttools/fonttools](https://github.com/fonttools/fonttools).
 
