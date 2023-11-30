@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.44">
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.45">
 
   <GlyphOrder>
     <!-- The 'id' attribute is only for humans; it is ignored when parsed. -->
@@ -3879,13 +3879,13 @@
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="2.041"/>
-    <checkSumAdjustment value="0x3b0169f5"/>
+    <fontRevision value="2.042"/>
+    <checkSumAdjustment value="0xac860c4d"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00001011"/>
     <unitsPerEm value="2048"/>
     <created value="Wed May 22 20:00:43 2013"/>
-    <modified value="Tue Nov 21 02:26:55 2023"/>
+    <modified value="Wed Nov 29 22:26:17 2023"/>
     <xMin value="0"/>
     <yMin value="-500"/>
     <xMax value="2550"/>
@@ -9746,7 +9746,7 @@
       Noto Color Emoji
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 2.041;GOOG;noto-emoji:20231120:69db1642752d1457ed8cfa6880781a9f36c9722e
+      Version 2.042;GOOG;noto-emoji:20231129:7f49a00d523ae5f94e52fd9f9a39bac9cf65f958
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       NotoColorEmoji
