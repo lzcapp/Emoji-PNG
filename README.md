@@ -13,6 +13,8 @@ Extracted PNG images from Emoji font files.
 7. **Samsung One UI Emoji** from [Emoji magisk modules by RKBDI](https://forum.xda-developers.com/t/magisk-module-emoji-sets-by-rkbdi.4120991/).
 8. **Twemoji** from [Gontier-Julien/Twemoji-Remastered](https://github.com/Gontier-Julien/Twemoji-Remastered).
 9. **WhatsApp Emoji** from [anfeichtinger/Magisk-WhatsApp-Emoji](https://github.com/anfeichtinger/Magisk-WhatsApp-Emoji).
+10. **HarmonyOS Emoji** extracted from latest HarmonyOS.
+11. **OpenMoji** from [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji).
 
   | Apple Emoji | Blobmoji | Fluent Emoji | JoyPixels | Noto Emoji | Segoe UI Emoji | Samsung One UI Emoji | Twemoji | WhatsApp Emoji | HarmonyOS | OpenMoji |
   | ----------- | -------- | ------------ | --------- | ---------- | -------------- | -------------------- | ------- | -------------- | --------- | -------- |
