@@ -1,0 +1,4671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.51">
+
+  <GlyphOrder>
+    <!-- The 'id' attribute is only for humans; it is ignored when parsed. -->
+    <GlyphID id="0" name=".notdef"/>
+    <GlyphID id="1" name="u1F1E6"/>
+    <GlyphID id="2" name="u1F1E7"/>
+    <GlyphID id="3" name="u1F1E8"/>
+    <GlyphID id="4" name="u1F1E9"/>
+    <GlyphID id="5" name="u1F1EA"/>
+    <GlyphID id="6" name="u1F1EB"/>
+    <GlyphID id="7" name="u1F1EC"/>
+    <GlyphID id="8" name="u1F1ED"/>
+    <GlyphID id="9" name="u1F1EE"/>
+    <GlyphID id="10" name="u1F1EF"/>
+    <GlyphID id="11" name="u1F1F0"/>
+    <GlyphID id="12" name="u1F1F1"/>
+    <GlyphID id="13" name="u1F1F2"/>
+    <GlyphID id="14" name="u1F1F3"/>
+    <GlyphID id="15" name="u1F1F4"/>
+    <GlyphID id="16" name="u1F1F5"/>
+    <GlyphID id="17" name="u1F1F6"/>
+    <GlyphID id="18" name="u1F1F7"/>
+    <GlyphID id="19" name="u1F1F8"/>
+    <GlyphID id="20" name="u1F1F9"/>
+    <GlyphID id="21" name="u1F1FA"/>
+    <GlyphID id="22" name="u1F1FB"/>
+    <GlyphID id="23" name="u1F1FC"/>
+    <GlyphID id="24" name="u1F1FD"/>
+    <GlyphID id="25" name="u1F1FE"/>
+    <GlyphID id="26" name="u1F1FF"/>
+    <GlyphID id="27" name="glyph00027"/>
+    <GlyphID id="28" name="glyph00028"/>
+    <GlyphID id="29" name="glyph00029"/>
+    <GlyphID id="30" name="glyph00030"/>
+    <GlyphID id="31" name="glyph00031"/>
+    <GlyphID id="32" name="glyph00032"/>
+    <GlyphID id="33" name="glyph00033"/>
+    <GlyphID id="34" name="glyph00034"/>
+    <GlyphID id="35" name="glyph00035"/>
+    <GlyphID id="36" name="glyph00036"/>
+    <GlyphID id="37" name="glyph00037"/>
+    <GlyphID id="38" name="glyph00038"/>
+    <GlyphID id="39" name="glyph00039"/>
+    <GlyphID id="40" name="glyph00040"/>
+    <GlyphID id="41" name="glyph00041"/>
+    <GlyphID id="42" name="glyph00042"/>
+    <GlyphID id="43" name="glyph00043"/>
+    <GlyphID id="44" name="glyph00044"/>
+    <GlyphID id="45" name="glyph00045"/>
+    <GlyphID id="46" name="glyph00046"/>
+    <GlyphID id="47" name="glyph00047"/>
+    <GlyphID id="48" name="glyph00048"/>
+    <GlyphID id="49" name="glyph00049"/>
+    <GlyphID id="50" name="glyph00050"/>
+    <GlyphID id="51" name="glyph00051"/>
+    <GlyphID id="52" name="glyph00052"/>
+    <GlyphID id="53" name="glyph00053"/>
+    <GlyphID id="54" name="glyph00054"/>
+    <GlyphID id="55" name="glyph00055"/>
+    <GlyphID id="56" name="glyph00056"/>
+    <GlyphID id="57" name="glyph00057"/>
+    <GlyphID id="58" name="glyph00058"/>
+    <GlyphID id="59" name="glyph00059"/>
+    <GlyphID id="60" name="glyph00060"/>
+    <GlyphID id="61" name="glyph00061"/>
+    <GlyphID id="62" name="glyph00062"/>
+    <GlyphID id="63" name="glyph00063"/>
+    <GlyphID id="64" name="glyph00064"/>
+    <GlyphID id="65" name="glyph00065"/>
+    <GlyphID id="66" name="glyph00066"/>
+    <GlyphID id="67" name="glyph00067"/>
+    <GlyphID id="68" name="glyph00068"/>
+    <GlyphID id="69" name="glyph00069"/>
+    <GlyphID id="70" name="glyph00070"/>
+    <GlyphID id="71" name="glyph00071"/>
+    <GlyphID id="72" name="glyph00072"/>
+    <GlyphID id="73" name="glyph00073"/>
+    <GlyphID id="74" name="glyph00074"/>
+    <GlyphID id="75" name="glyph00075"/>
+    <GlyphID id="76" name="glyph00076"/>
+    <GlyphID id="77" name="glyph00077"/>
+    <GlyphID id="78" name="glyph00078"/>
+    <GlyphID id="79" name="glyph00079"/>
+    <GlyphID id="80" name="glyph00080"/>
+    <GlyphID id="81" name="glyph00081"/>
+    <GlyphID id="82" name="glyph00082"/>
+    <GlyphID id="83" name="glyph00083"/>
+    <GlyphID id="84" name="glyph00084"/>
+    <GlyphID id="85" name="glyph00085"/>
+    <GlyphID id="86" name="glyph00086"/>
+    <GlyphID id="87" name="glyph00087"/>
+    <GlyphID id="88" name="glyph00088"/>
+    <GlyphID id="89" name="glyph00089"/>
+    <GlyphID id="90" name="glyph00090"/>
+    <GlyphID id="91" name="glyph00091"/>
+    <GlyphID id="92" name="glyph00092"/>
+    <GlyphID id="93" name="glyph00093"/>
+    <GlyphID id="94" name="glyph00094"/>
+    <GlyphID id="95" name="glyph00095"/>
+    <GlyphID id="96" name="glyph00096"/>
+    <GlyphID id="97" name="glyph00097"/>
+    <GlyphID id="98" name="glyph00098"/>
+    <GlyphID id="99" name="glyph00099"/>
+    <GlyphID id="100" name="glyph00100"/>
+    <GlyphID id="101" name="glyph00101"/>
+    <GlyphID id="102" name="glyph00102"/>
+    <GlyphID id="103" name="glyph00103"/>
+    <GlyphID id="104" name="glyph00104"/>
+    <GlyphID id="105" name="glyph00105"/>
+    <GlyphID id="106" name="glyph00106"/>
+    <GlyphID id="107" name="glyph00107"/>
+    <GlyphID id="108" name="glyph00108"/>
+    <GlyphID id="109" name="glyph00109"/>
+    <GlyphID id="110" name="glyph00110"/>
+    <GlyphID id="111" name="glyph00111"/>
+    <GlyphID id="112" name="glyph00112"/>
+    <GlyphID id="113" name="glyph00113"/>
+    <GlyphID id="114" name="glyph00114"/>
+    <GlyphID id="115" name="glyph00115"/>
+    <GlyphID id="116" name="glyph00116"/>
+    <GlyphID id="117" name="glyph00117"/>
+    <GlyphID id="118" name="glyph00118"/>
+    <GlyphID id="119" name="glyph00119"/>
+    <GlyphID id="120" name="glyph00120"/>
+    <GlyphID id="121" name="glyph00121"/>
+    <GlyphID id="122" name="glyph00122"/>
+    <GlyphID id="123" name="glyph00123"/>
+    <GlyphID id="124" name="glyph00124"/>
+    <GlyphID id="125" name="glyph00125"/>
+    <GlyphID id="126" name="glyph00126"/>
+    <GlyphID id="127" name="glyph00127"/>
+    <GlyphID id="128" name="glyph00128"/>
+    <GlyphID id="129" name="glyph00129"/>
+    <GlyphID id="130" name="glyph00130"/>
+    <GlyphID id="131" name="glyph00131"/>
+    <GlyphID id="132" name="glyph00132"/>
+    <GlyphID id="133" name="glyph00133"/>
+    <GlyphID id="134" name="glyph00134"/>
+    <GlyphID id="135" name="glyph00135"/>
+    <GlyphID id="136" name="glyph00136"/>
+    <GlyphID id="137" name="glyph00137"/>
+    <GlyphID id="138" name="glyph00138"/>
+    <GlyphID id="139" name="glyph00139"/>
+    <GlyphID id="140" name="glyph00140"/>
+    <GlyphID id="141" name="glyph00141"/>
+    <GlyphID id="142" name="glyph00142"/>
+    <GlyphID id="143" name="glyph00143"/>
+    <GlyphID id="144" name="glyph00144"/>
+    <GlyphID id="145" name="glyph00145"/>
+    <GlyphID id="146" name="glyph00146"/>
+    <GlyphID id="147" name="glyph00147"/>
+    <GlyphID id="148" name="glyph00148"/>
+    <GlyphID id="149" name="glyph00149"/>
+    <GlyphID id="150" name="glyph00150"/>
+    <GlyphID id="151" name="glyph00151"/>
+    <GlyphID id="152" name="glyph00152"/>
+    <GlyphID id="153" name="glyph00153"/>
+    <GlyphID id="154" name="glyph00154"/>
+    <GlyphID id="155" name="glyph00155"/>
+    <GlyphID id="156" name="glyph00156"/>
+    <GlyphID id="157" name="glyph00157"/>
+    <GlyphID id="158" name="glyph00158"/>
+    <GlyphID id="159" name="glyph00159"/>
+    <GlyphID id="160" name="glyph00160"/>
+    <GlyphID id="161" name="glyph00161"/>
+    <GlyphID id="162" name="glyph00162"/>
+    <GlyphID id="163" name="glyph00163"/>
+    <GlyphID id="164" name="glyph00164"/>
+    <GlyphID id="165" name="glyph00165"/>
+    <GlyphID id="166" name="glyph00166"/>
+    <GlyphID id="167" name="glyph00167"/>
+    <GlyphID id="168" name="glyph00168"/>
+    <GlyphID id="169" name="glyph00169"/>
+    <GlyphID id="170" name="glyph00170"/>
+    <GlyphID id="171" name="glyph00171"/>
+    <GlyphID id="172" name="glyph00172"/>
+    <GlyphID id="173" name="glyph00173"/>
+    <GlyphID id="174" name="glyph00174"/>
+    <GlyphID id="175" name="glyph00175"/>
+    <GlyphID id="176" name="glyph00176"/>
+    <GlyphID id="177" name="glyph00177"/>
+    <GlyphID id="178" name="glyph00178"/>
+    <GlyphID id="179" name="glyph00179"/>
+    <GlyphID id="180" name="glyph00180"/>
+    <GlyphID id="181" name="glyph00181"/>
+    <GlyphID id="182" name="glyph00182"/>
+    <GlyphID id="183" name="glyph00183"/>
+    <GlyphID id="184" name="glyph00184"/>
+    <GlyphID id="185" name="glyph00185"/>
+    <GlyphID id="186" name="glyph00186"/>
+    <GlyphID id="187" name="glyph00187"/>
+    <GlyphID id="188" name="glyph00188"/>
+    <GlyphID id="189" name="glyph00189"/>
+    <GlyphID id="190" name="glyph00190"/>
+    <GlyphID id="191" name="glyph00191"/>
+    <GlyphID id="192" name="glyph00192"/>
+    <GlyphID id="193" name="glyph00193"/>
+    <GlyphID id="194" name="glyph00194"/>
+    <GlyphID id="195" name="glyph00195"/>
+    <GlyphID id="196" name="glyph00196"/>
+    <GlyphID id="197" name="glyph00197"/>
+    <GlyphID id="198" name="glyph00198"/>
+    <GlyphID id="199" name="glyph00199"/>
+    <GlyphID id="200" name="glyph00200"/>
+    <GlyphID id="201" name="glyph00201"/>
+    <GlyphID id="202" name="glyph00202"/>
+    <GlyphID id="203" name="glyph00203"/>
+    <GlyphID id="204" name="glyph00204"/>
+    <GlyphID id="205" name="glyph00205"/>
+    <GlyphID id="206" name="glyph00206"/>
+    <GlyphID id="207" name="glyph00207"/>
+    <GlyphID id="208" name="glyph00208"/>
+    <GlyphID id="209" name="glyph00209"/>
+    <GlyphID id="210" name="glyph00210"/>
+    <GlyphID id="211" name="glyph00211"/>
+    <GlyphID id="212" name="glyph00212"/>
+    <GlyphID id="213" name="glyph00213"/>
+    <GlyphID id="214" name="glyph00214"/>
+    <GlyphID id="215" name="glyph00215"/>
+    <GlyphID id="216" name="glyph00216"/>
+    <GlyphID id="217" name="glyph00217"/>
+    <GlyphID id="218" name="glyph00218"/>
+    <GlyphID id="219" name="glyph00219"/>
+    <GlyphID id="220" name="glyph00220"/>
+    <GlyphID id="221" name="glyph00221"/>
+    <GlyphID id="222" name="glyph00222"/>
+    <GlyphID id="223" name="glyph00223"/>
+    <GlyphID id="224" name="glyph00224"/>
+    <GlyphID id="225" name="glyph00225"/>
+    <GlyphID id="226" name="glyph00226"/>
+    <GlyphID id="227" name="glyph00227"/>
+    <GlyphID id="228" name="glyph00228"/>
+    <GlyphID id="229" name="glyph00229"/>
+    <GlyphID id="230" name="glyph00230"/>
+    <GlyphID id="231" name="glyph00231"/>
+    <GlyphID id="232" name="glyph00232"/>
+    <GlyphID id="233" name="glyph00233"/>
+    <GlyphID id="234" name="glyph00234"/>
+    <GlyphID id="235" name="glyph00235"/>
+    <GlyphID id="236" name="glyph00236"/>
+    <GlyphID id="237" name="glyph00237"/>
+    <GlyphID id="238" name="glyph00238"/>
+    <GlyphID id="239" name="glyph00239"/>
+    <GlyphID id="240" name="glyph00240"/>
+    <GlyphID id="241" name="glyph00241"/>
+    <GlyphID id="242" name="glyph00242"/>
+    <GlyphID id="243" name="glyph00243"/>
+    <GlyphID id="244" name="glyph00244"/>
+    <GlyphID id="245" name="glyph00245"/>
+    <GlyphID id="246" name="glyph00246"/>
+    <GlyphID id="247" name="glyph00247"/>
+    <GlyphID id="248" name="glyph00248"/>
+    <GlyphID id="249" name="glyph00249"/>
+    <GlyphID id="250" name="glyph00250"/>
+    <GlyphID id="251" name="glyph00251"/>
+    <GlyphID id="252" name="glyph00252"/>
+    <GlyphID id="253" name="glyph00253"/>
+    <GlyphID id="254" name="glyph00254"/>
+    <GlyphID id="255" name="glyph00255"/>
+    <GlyphID id="256" name="glyph00256"/>
+    <GlyphID id="257" name="glyph00257"/>
+    <GlyphID id="258" name="glyph00258"/>
+    <GlyphID id="259" name="glyph00259"/>
+    <GlyphID id="260" name="glyph00260"/>
+    <GlyphID id="261" name="glyph00261"/>
+    <GlyphID id="262" name="glyph00262"/>
+    <GlyphID id="263" name="glyph00263"/>
+    <GlyphID id="264" name="glyph00264"/>
+    <GlyphID id="265" name="glyph00265"/>
+    <GlyphID id="266" name="glyph00266"/>
+    <GlyphID id="267" name="glyph00267"/>
+    <GlyphID id="268" name="glyph00268"/>
+    <GlyphID id="269" name="glyph00269"/>
+    <GlyphID id="270" name="glyph00270"/>
+    <GlyphID id="271" name="glyph00271"/>
+    <GlyphID id="272" name="glyph00272"/>
+    <GlyphID id="273" name="glyph00273"/>
+    <GlyphID id="274" name="glyph00274"/>
+    <GlyphID id="275" name="glyph00275"/>
+    <GlyphID id="276" name="glyph00276"/>
+    <GlyphID id="277" name="glyph00277"/>
+  </GlyphOrder>
+
+  <head>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="1.0"/>
+    <fontRevision value="2.038"/>
+    <checkSumAdjustment value="0x60cdb77f"/>
+    <magicNumber value="0x5f0f3cf5"/>
+    <flags value="00000000 00001011"/>
+    <unitsPerEm value="2048"/>
+    <created value="Wed May 22 20:00:43 2013"/>
+    <modified value="Mon Jul  3 23:03:19 2023"/>
+    <xMin value="0"/>
+    <yMin value="-500"/>
+    <xMax value="2550"/>
+    <yMax value="1900"/>
+    <macStyle value="00000000 00000000"/>
+    <lowestRecPPEM value="8"/>
+    <fontDirectionHint value="2"/>
+    <indexToLocFormat value="0"/>
+    <glyphDataFormat value="0"/>
+  </head>
+
+  <hhea>
+    <tableVersion value="0x00010000"/>
+    <ascent value="1900"/>
+    <descent value="-500"/>
+    <lineGap value="0"/>
+    <advanceWidthMax value="2550"/>
+    <minLeftSideBearing value="0"/>
+    <minRightSideBearing value="0"/>
+    <xMaxExtent value="2550"/>
+    <caretSlopeRise value="1"/>
+    <caretSlopeRun value="0"/>
+    <caretOffset value="0"/>
+    <reserved0 value="0"/>
+    <reserved1 value="0"/>
+    <reserved2 value="0"/>
+    <reserved3 value="0"/>
+    <metricDataFormat value="0"/>
+    <numberOfHMetrics value="1"/>
+  </hhea>
+
+  <maxp>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="0x10000"/>
+    <numGlyphs value="278"/>
+    <maxPoints value="8"/>
+    <maxContours value="2"/>
+    <maxCompositePoints value="0"/>
+    <maxCompositeContours value="0"/>
+    <maxZones value="2"/>
+    <maxTwilightPoints value="0"/>
+    <maxStorage value="1"/>
+    <maxFunctionDefs value="1"/>
+    <maxInstructionDefs value="0"/>
+    <maxStackElements value="64"/>
+    <maxSizeOfInstructions value="46"/>
+    <maxComponentElements value="0"/>
+    <maxComponentDepth value="0"/>
+  </maxp>
+
+  <OS_2>
+    <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
+         will be recalculated by the compiler -->
+    <version value="4"/>
+    <xAvgCharWidth value="2550"/>
+    <usWeightClass value="400"/>
+    <usWidthClass value="5"/>
+    <fsType value="00000000 00000000"/>
+    <ySubscriptXSize value="1331"/>
+    <ySubscriptYSize value="1433"/>
+    <ySubscriptXOffset value="0"/>
+    <ySubscriptYOffset value="286"/>
+    <ySuperscriptXSize value="1331"/>
+    <ySuperscriptYSize value="1433"/>
+    <ySuperscriptXOffset value="0"/>
+    <ySuperscriptYOffset value="983"/>
+    <yStrikeoutSize value="102"/>
+    <yStrikeoutPosition value="530"/>
+    <sFamilyClass value="0"/>
+    <panose>
+      <bFamilyType value="2"/>
+      <bSerifStyle value="0"/>
+      <bWeight value="6"/>
+      <bProportion value="9"/>
+      <bContrast value="0"/>
+      <bStrokeVariation value="0"/>
+      <bArmStyle value="0"/>
+      <bLetterForm value="0"/>
+      <bMidline value="0"/>
+      <bXHeight value="0"/>
+    </panose>
+    <ulUnicodeRange1 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange2 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
+    <achVendID value="GOOG"/>
+    <fsSelection value="00000000 01000000"/>
+    <usFirstCharIndex value="65535"/>
+    <usLastCharIndex value="65535"/>
+    <sTypoAscender value="1900"/>
+    <sTypoDescender value="-500"/>
+    <sTypoLineGap value="0"/>
+    <usWinAscent value="1900"/>
+    <usWinDescent value="500"/>
+    <ulCodePageRange1 value="00000000 00000000 00000000 00000001"/>
+    <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
+    <sxHeight value="0"/>
+    <sCapHeight value="1900"/>
+    <usDefaultChar value="0"/>
+    <usBreakChar value="32"/>
+    <usMaxContext value="1"/>
+  </OS_2>
+
+  <hmtx>
+    <mtx name=".notdef" width="2550" lsb="0"/>
+    <mtx name="glyph00027" width="2550" lsb="0"/>
+    <mtx name="glyph00028" width="2550" lsb="0"/>
+    <mtx name="glyph00029" width="2550" lsb="0"/>
+    <mtx name="glyph00030" width="2550" lsb="0"/>
+    <mtx name="glyph00031" width="2550" lsb="0"/>
+    <mtx name="glyph00032" width="2550" lsb="0"/>
+    <mtx name="glyph00033" width="2550" lsb="0"/>
+    <mtx name="glyph00034" width="2550" lsb="0"/>
+    <mtx name="glyph00035" width="2550" lsb="0"/>
+    <mtx name="glyph00036" width="2550" lsb="0"/>
+    <mtx name="glyph00037" width="2550" lsb="0"/>
+    <mtx name="glyph00038" width="2550" lsb="0"/>
+    <mtx name="glyph00039" width="2550" lsb="0"/>
+    <mtx name="glyph00040" width="2550" lsb="0"/>
+    <mtx name="glyph00041" width="2550" lsb="0"/>
+    <mtx name="glyph00042" width="2550" lsb="0"/>
+    <mtx name="glyph00043" width="2550" lsb="0"/>
+    <mtx name="glyph00044" width="2550" lsb="0"/>
+    <mtx name="glyph00045" width="2550" lsb="0"/>
+    <mtx name="glyph00046" width="2550" lsb="0"/>
+    <mtx name="glyph00047" width="2550" lsb="0"/>
+    <mtx name="glyph00048" width="2550" lsb="0"/>
+    <mtx name="glyph00049" width="2550" lsb="0"/>
+    <mtx name="glyph00050" width="2550" lsb="0"/>
+    <mtx name="glyph00051" width="2550" lsb="0"/>
+    <mtx name="glyph00052" width="2550" lsb="0"/>
+    <mtx name="glyph00053" width="2550" lsb="0"/>
+    <mtx name="glyph00054" width="2550" lsb="0"/>
+    <mtx name="glyph00055" width="2550" lsb="0"/>
+    <mtx name="glyph00056" width="2550" lsb="0"/>
+    <mtx name="glyph00057" width="2550" lsb="0"/>
+    <mtx name="glyph00058" width="2550" lsb="0"/>
+    <mtx name="glyph00059" width="2550" lsb="0"/>
+    <mtx name="glyph00060" width="2550" lsb="0"/>
+    <mtx name="glyph00061" width="2550" lsb="0"/>
+    <mtx name="glyph00062" width="2550" lsb="0"/>
+    <mtx name="glyph00063" width="2550" lsb="0"/>
+    <mtx name="glyph00064" width="2550" lsb="0"/>
+    <mtx name="glyph00065" width="2550" lsb="0"/>
+    <mtx name="glyph00066" width="2550" lsb="0"/>
+    <mtx name="glyph00067" width="2550" lsb="0"/>
+    <mtx name="glyph00068" width="2550" lsb="0"/>
+    <mtx name="glyph00069" width="2550" lsb="0"/>
+    <mtx name="glyph00070" width="2550" lsb="0"/>
+    <mtx name="glyph00071" width="2550" lsb="0"/>
+    <mtx name="glyph00072" width="2550" lsb="0"/>
+    <mtx name="glyph00073" width="2550" lsb="0"/>
+    <mtx name="glyph00074" width="2550" lsb="0"/>
+    <mtx name="glyph00075" width="2550" lsb="0"/>
+    <mtx name="glyph00076" width="2550" lsb="0"/>
+    <mtx name="glyph00077" width="2550" lsb="0"/>
+    <mtx name="glyph00078" width="2550" lsb="0"/>
+    <mtx name="glyph00079" width="2550" lsb="0"/>
+    <mtx name="glyph00080" width="2550" lsb="0"/>
+    <mtx name="glyph00081" width="2550" lsb="0"/>
+    <mtx name="glyph00082" width="2550" lsb="0"/>
+    <mtx name="glyph00083" width="2550" lsb="0"/>
+    <mtx name="glyph00084" width="2550" lsb="0"/>
+    <mtx name="glyph00085" width="2550" lsb="0"/>
+    <mtx name="glyph00086" width="2550" lsb="0"/>
+    <mtx name="glyph00087" width="2550" lsb="0"/>
+    <mtx name="glyph00088" width="2550" lsb="0"/>
+    <mtx name="glyph00089" width="2550" lsb="0"/>
+    <mtx name="glyph00090" width="2550" lsb="0"/>
+    <mtx name="glyph00091" width="2550" lsb="0"/>
+    <mtx name="glyph00092" width="2550" lsb="0"/>
+    <mtx name="glyph00093" width="2550" lsb="0"/>
+    <mtx name="glyph00094" width="2550" lsb="0"/>
+    <mtx name="glyph00095" width="2550" lsb="0"/>
+    <mtx name="glyph00096" width="2550" lsb="0"/>
+    <mtx name="glyph00097" width="2550" lsb="0"/>
+    <mtx name="glyph00098" width="2550" lsb="0"/>
+    <mtx name="glyph00099" width="2550" lsb="0"/>
+    <mtx name="glyph00100" width="2550" lsb="0"/>
+    <mtx name="glyph00101" width="2550" lsb="0"/>
+    <mtx name="glyph00102" width="2550" lsb="0"/>
+    <mtx name="glyph00103" width="2550" lsb="0"/>
+    <mtx name="glyph00104" width="2550" lsb="0"/>
+    <mtx name="glyph00105" width="2550" lsb="0"/>
+    <mtx name="glyph00106" width="2550" lsb="0"/>
+    <mtx name="glyph00107" width="2550" lsb="0"/>
+    <mtx name="glyph00108" width="2550" lsb="0"/>
+    <mtx name="glyph00109" width="2550" lsb="0"/>
+    <mtx name="glyph00110" width="2550" lsb="0"/>
+    <mtx name="glyph00111" width="2550" lsb="0"/>
+    <mtx name="glyph00112" width="2550" lsb="0"/>
+    <mtx name="glyph00113" width="2550" lsb="0"/>
+    <mtx name="glyph00114" width="2550" lsb="0"/>
+    <mtx name="glyph00115" width="2550" lsb="0"/>
+    <mtx name="glyph00116" width="2550" lsb="0"/>
+    <mtx name="glyph00117" width="2550" lsb="0"/>
+    <mtx name="glyph00118" width="2550" lsb="0"/>
+    <mtx name="glyph00119" width="2550" lsb="0"/>
+    <mtx name="glyph00120" width="2550" lsb="0"/>
+    <mtx name="glyph00121" width="2550" lsb="0"/>
+    <mtx name="glyph00122" width="2550" lsb="0"/>
+    <mtx name="glyph00123" width="2550" lsb="0"/>
+    <mtx name="glyph00124" width="2550" lsb="0"/>
+    <mtx name="glyph00125" width="2550" lsb="0"/>
+    <mtx name="glyph00126" width="2550" lsb="0"/>
+    <mtx name="glyph00127" width="2550" lsb="0"/>
+    <mtx name="glyph00128" width="2550" lsb="0"/>
+    <mtx name="glyph00129" width="2550" lsb="0"/>
+    <mtx name="glyph00130" width="2550" lsb="0"/>
+    <mtx name="glyph00131" width="2550" lsb="0"/>
+    <mtx name="glyph00132" width="2550" lsb="0"/>
+    <mtx name="glyph00133" width="2550" lsb="0"/>
+    <mtx name="glyph00134" width="2550" lsb="0"/>
+    <mtx name="glyph00135" width="2550" lsb="0"/>
+    <mtx name="glyph00136" width="2550" lsb="0"/>
+    <mtx name="glyph00137" width="2550" lsb="0"/>
+    <mtx name="glyph00138" width="2550" lsb="0"/>
+    <mtx name="glyph00139" width="2550" lsb="0"/>
+    <mtx name="glyph00140" width="2550" lsb="0"/>
+    <mtx name="glyph00141" width="2550" lsb="0"/>
+    <mtx name="glyph00142" width="2550" lsb="0"/>
+    <mtx name="glyph00143" width="2550" lsb="0"/>
+    <mtx name="glyph00144" width="2550" lsb="0"/>
+    <mtx name="glyph00145" width="2550" lsb="0"/>
+    <mtx name="glyph00146" width="2550" lsb="0"/>
+    <mtx name="glyph00147" width="2550" lsb="0"/>
+    <mtx name="glyph00148" width="2550" lsb="0"/>
+    <mtx name="glyph00149" width="2550" lsb="0"/>
+    <mtx name="glyph00150" width="2550" lsb="0"/>
+    <mtx name="glyph00151" width="2550" lsb="0"/>
+    <mtx name="glyph00152" width="2550" lsb="0"/>
+    <mtx name="glyph00153" width="2550" lsb="0"/>
+    <mtx name="glyph00154" width="2550" lsb="0"/>
+    <mtx name="glyph00155" width="2550" lsb="0"/>
+    <mtx name="glyph00156" width="2550" lsb="0"/>
+    <mtx name="glyph00157" width="2550" lsb="0"/>
+    <mtx name="glyph00158" width="2550" lsb="0"/>
+    <mtx name="glyph00159" width="2550" lsb="0"/>
+    <mtx name="glyph00160" width="2550" lsb="0"/>
+    <mtx name="glyph00161" width="2550" lsb="0"/>
+    <mtx name="glyph00162" width="2550" lsb="0"/>
+    <mtx name="glyph00163" width="2550" lsb="0"/>
+    <mtx name="glyph00164" width="2550" lsb="0"/>
+    <mtx name="glyph00165" width="2550" lsb="0"/>
+    <mtx name="glyph00166" width="2550" lsb="0"/>
+    <mtx name="glyph00167" width="2550" lsb="0"/>
+    <mtx name="glyph00168" width="2550" lsb="0"/>
+    <mtx name="glyph00169" width="2550" lsb="0"/>
+    <mtx name="glyph00170" width="2550" lsb="0"/>
+    <mtx name="glyph00171" width="2550" lsb="0"/>
+    <mtx name="glyph00172" width="2550" lsb="0"/>
+    <mtx name="glyph00173" width="2550" lsb="0"/>
+    <mtx name="glyph00174" width="2550" lsb="0"/>
+    <mtx name="glyph00175" width="2550" lsb="0"/>
+    <mtx name="glyph00176" width="2550" lsb="0"/>
+    <mtx name="glyph00177" width="2550" lsb="0"/>
+    <mtx name="glyph00178" width="2550" lsb="0"/>
+    <mtx name="glyph00179" width="2550" lsb="0"/>
+    <mtx name="glyph00180" width="2550" lsb="0"/>
+    <mtx name="glyph00181" width="2550" lsb="0"/>
+    <mtx name="glyph00182" width="2550" lsb="0"/>
+    <mtx name="glyph00183" width="2550" lsb="0"/>
+    <mtx name="glyph00184" width="2550" lsb="0"/>
+    <mtx name="glyph00185" width="2550" lsb="0"/>
+    <mtx name="glyph00186" width="2550" lsb="0"/>
+    <mtx name="glyph00187" width="2550" lsb="0"/>
+    <mtx name="glyph00188" width="2550" lsb="0"/>
+    <mtx name="glyph00189" width="2550" lsb="0"/>
+    <mtx name="glyph00190" width="2550" lsb="0"/>
+    <mtx name="glyph00191" width="2550" lsb="0"/>
+    <mtx name="glyph00192" width="2550" lsb="0"/>
+    <mtx name="glyph00193" width="2550" lsb="0"/>
+    <mtx name="glyph00194" width="2550" lsb="0"/>
+    <mtx name="glyph00195" width="2550" lsb="0"/>
+    <mtx name="glyph00196" width="2550" lsb="0"/>
+    <mtx name="glyph00197" width="2550" lsb="0"/>
+    <mtx name="glyph00198" width="2550" lsb="0"/>
+    <mtx name="glyph00199" width="2550" lsb="0"/>
+    <mtx name="glyph00200" width="2550" lsb="0"/>
+    <mtx name="glyph00201" width="2550" lsb="0"/>
+    <mtx name="glyph00202" width="2550" lsb="0"/>
+    <mtx name="glyph00203" width="2550" lsb="0"/>
+    <mtx name="glyph00204" width="2550" lsb="0"/>
+    <mtx name="glyph00205" width="2550" lsb="0"/>
+    <mtx name="glyph00206" width="2550" lsb="0"/>
+    <mtx name="glyph00207" width="2550" lsb="0"/>
+    <mtx name="glyph00208" width="2550" lsb="0"/>
+    <mtx name="glyph00209" width="2550" lsb="0"/>
+    <mtx name="glyph00210" width="2550" lsb="0"/>
+    <mtx name="glyph00211" width="2550" lsb="0"/>
+    <mtx name="glyph00212" width="2550" lsb="0"/>
+    <mtx name="glyph00213" width="2550" lsb="0"/>
+    <mtx name="glyph00214" width="2550" lsb="0"/>
+    <mtx name="glyph00215" width="2550" lsb="0"/>
+    <mtx name="glyph00216" width="2550" lsb="0"/>
+    <mtx name="glyph00217" width="2550" lsb="0"/>
+    <mtx name="glyph00218" width="2550" lsb="0"/>
+    <mtx name="glyph00219" width="2550" lsb="0"/>
+    <mtx name="glyph00220" width="2550" lsb="0"/>
+    <mtx name="glyph00221" width="2550" lsb="0"/>
+    <mtx name="glyph00222" width="2550" lsb="0"/>
+    <mtx name="glyph00223" width="2550" lsb="0"/>
+    <mtx name="glyph00224" width="2550" lsb="0"/>
+    <mtx name="glyph00225" width="2550" lsb="0"/>
+    <mtx name="glyph00226" width="2550" lsb="0"/>
+    <mtx name="glyph00227" width="2550" lsb="0"/>
+    <mtx name="glyph00228" width="2550" lsb="0"/>
+    <mtx name="glyph00229" width="2550" lsb="0"/>
+    <mtx name="glyph00230" width="2550" lsb="0"/>
+    <mtx name="glyph00231" width="2550" lsb="0"/>
+    <mtx name="glyph00232" width="2550" lsb="0"/>
+    <mtx name="glyph00233" width="2550" lsb="0"/>
+    <mtx name="glyph00234" width="2550" lsb="0"/>
+    <mtx name="glyph00235" width="2550" lsb="0"/>
+    <mtx name="glyph00236" width="2550" lsb="0"/>
+    <mtx name="glyph00237" width="2550" lsb="0"/>
+    <mtx name="glyph00238" width="2550" lsb="0"/>
+    <mtx name="glyph00239" width="2550" lsb="0"/>
+    <mtx name="glyph00240" width="2550" lsb="0"/>
+    <mtx name="glyph00241" width="2550" lsb="0"/>
+    <mtx name="glyph00242" width="2550" lsb="0"/>
+    <mtx name="glyph00243" width="2550" lsb="0"/>
+    <mtx name="glyph00244" width="2550" lsb="0"/>
+    <mtx name="glyph00245" width="2550" lsb="0"/>
+    <mtx name="glyph00246" width="2550" lsb="0"/>
+    <mtx name="glyph00247" width="2550" lsb="0"/>
+    <mtx name="glyph00248" width="2550" lsb="0"/>
+    <mtx name="glyph00249" width="2550" lsb="0"/>
+    <mtx name="glyph00250" width="2550" lsb="0"/>
+    <mtx name="glyph00251" width="2550" lsb="0"/>
+    <mtx name="glyph00252" width="2550" lsb="0"/>
+    <mtx name="glyph00253" width="2550" lsb="0"/>
+    <mtx name="glyph00254" width="2550" lsb="0"/>
+    <mtx name="glyph00255" width="2550" lsb="0"/>
+    <mtx name="glyph00256" width="2550" lsb="0"/>
+    <mtx name="glyph00257" width="2550" lsb="0"/>
+    <mtx name="glyph00258" width="2550" lsb="0"/>
+    <mtx name="glyph00259" width="2550" lsb="0"/>
+    <mtx name="glyph00260" width="2550" lsb="0"/>
+    <mtx name="glyph00261" width="2550" lsb="0"/>
+    <mtx name="glyph00262" width="2550" lsb="0"/>
+    <mtx name="glyph00263" width="2550" lsb="0"/>
+    <mtx name="glyph00264" width="2550" lsb="0"/>
+    <mtx name="glyph00265" width="2550" lsb="0"/>
+    <mtx name="glyph00266" width="2550" lsb="0"/>
+    <mtx name="glyph00267" width="2550" lsb="0"/>
+    <mtx name="glyph00268" width="2550" lsb="0"/>
+    <mtx name="glyph00269" width="2550" lsb="0"/>
+    <mtx name="glyph00270" width="2550" lsb="0"/>
+    <mtx name="glyph00271" width="2550" lsb="0"/>
+    <mtx name="glyph00272" width="2550" lsb="0"/>
+    <mtx name="glyph00273" width="2550" lsb="0"/>
+    <mtx name="glyph00274" width="2550" lsb="0"/>
+    <mtx name="glyph00275" width="2550" lsb="0"/>
+    <mtx name="glyph00276" width="2550" lsb="0"/>
+    <mtx name="glyph00277" width="2550" lsb="0"/>
+    <mtx name="u1F1E6" width="2550" lsb="0"/>
+    <mtx name="u1F1E7" width="2550" lsb="0"/>
+    <mtx name="u1F1E8" width="2550" lsb="0"/>
+    <mtx name="u1F1E9" width="2550" lsb="0"/>
+    <mtx name="u1F1EA" width="2550" lsb="0"/>
+    <mtx name="u1F1EB" width="2550" lsb="0"/>
+    <mtx name="u1F1EC" width="2550" lsb="0"/>
+    <mtx name="u1F1ED" width="2550" lsb="0"/>
+    <mtx name="u1F1EE" width="2550" lsb="0"/>
+    <mtx name="u1F1EF" width="2550" lsb="0"/>
+    <mtx name="u1F1F0" width="2550" lsb="0"/>
+    <mtx name="u1F1F1" width="2550" lsb="0"/>
+    <mtx name="u1F1F2" width="2550" lsb="0"/>
+    <mtx name="u1F1F3" width="2550" lsb="0"/>
+    <mtx name="u1F1F4" width="2550" lsb="0"/>
+    <mtx name="u1F1F5" width="2550" lsb="0"/>
+    <mtx name="u1F1F6" width="2550" lsb="0"/>
+    <mtx name="u1F1F7" width="2550" lsb="0"/>
+    <mtx name="u1F1F8" width="2550" lsb="0"/>
+    <mtx name="u1F1F9" width="2550" lsb="0"/>
+    <mtx name="u1F1FA" width="2550" lsb="0"/>
+    <mtx name="u1F1FB" width="2550" lsb="0"/>
+    <mtx name="u1F1FC" width="2550" lsb="0"/>
+    <mtx name="u1F1FD" width="2550" lsb="0"/>
+    <mtx name="u1F1FE" width="2550" lsb="0"/>
+    <mtx name="u1F1FF" width="2550" lsb="0"/>
+  </hmtx>
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="28" language="0" nGroups="1">
+      <map code="0x1f1e6" name="u1F1E6"/><!-- REGIONAL INDICATOR SYMBOL LETTER A -->
+      <map code="0x1f1e7" name="u1F1E7"/><!-- REGIONAL INDICATOR SYMBOL LETTER B -->
+      <map code="0x1f1e8" name="u1F1E8"/><!-- REGIONAL INDICATOR SYMBOL LETTER C -->
+      <map code="0x1f1e9" name="u1F1E9"/><!-- REGIONAL INDICATOR SYMBOL LETTER D -->
+      <map code="0x1f1ea" name="u1F1EA"/><!-- REGIONAL INDICATOR SYMBOL LETTER E -->
+      <map code="0x1f1eb" name="u1F1EB"/><!-- REGIONAL INDICATOR SYMBOL LETTER F -->
+      <map code="0x1f1ec" name="u1F1EC"/><!-- REGIONAL INDICATOR SYMBOL LETTER G -->
+      <map code="0x1f1ed" name="u1F1ED"/><!-- REGIONAL INDICATOR SYMBOL LETTER H -->
+      <map code="0x1f1ee" name="u1F1EE"/><!-- REGIONAL INDICATOR SYMBOL LETTER I -->
+      <map code="0x1f1ef" name="u1F1EF"/><!-- REGIONAL INDICATOR SYMBOL LETTER J -->
+      <map code="0x1f1f0" name="u1F1F0"/><!-- REGIONAL INDICATOR SYMBOL LETTER K -->
+      <map code="0x1f1f1" name="u1F1F1"/><!-- REGIONAL INDICATOR SYMBOL LETTER L -->
+      <map code="0x1f1f2" name="u1F1F2"/><!-- REGIONAL INDICATOR SYMBOL LETTER M -->
+      <map code="0x1f1f3" name="u1F1F3"/><!-- REGIONAL INDICATOR SYMBOL LETTER N -->
+      <map code="0x1f1f4" name="u1F1F4"/><!-- REGIONAL INDICATOR SYMBOL LETTER O -->
+      <map code="0x1f1f5" name="u1F1F5"/><!-- REGIONAL INDICATOR SYMBOL LETTER P -->
+      <map code="0x1f1f6" name="u1F1F6"/><!-- REGIONAL INDICATOR SYMBOL LETTER Q -->
+      <map code="0x1f1f7" name="u1F1F7"/><!-- REGIONAL INDICATOR SYMBOL LETTER R -->
+      <map code="0x1f1f8" name="u1F1F8"/><!-- REGIONAL INDICATOR SYMBOL LETTER S -->
+      <map code="0x1f1f9" name="u1F1F9"/><!-- REGIONAL INDICATOR SYMBOL LETTER T -->
+      <map code="0x1f1fa" name="u1F1FA"/><!-- REGIONAL INDICATOR SYMBOL LETTER U -->
+      <map code="0x1f1fb" name="u1F1FB"/><!-- REGIONAL INDICATOR SYMBOL LETTER V -->
+      <map code="0x1f1fc" name="u1F1FC"/><!-- REGIONAL INDICATOR SYMBOL LETTER W -->
+      <map code="0x1f1fd" name="u1F1FD"/><!-- REGIONAL INDICATOR SYMBOL LETTER X -->
+      <map code="0x1f1fe" name="u1F1FE"/><!-- REGIONAL INDICATOR SYMBOL LETTER Y -->
+      <map code="0x1f1ff" name="u1F1FF"/><!-- REGIONAL INDICATOR SYMBOL LETTER Z -->
+    </cmap_format_12>
+  </cmap>
+
+  <name>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright 2013 Google Inc.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Noto Color Emoji Flags
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      Noto Color Emoji Flags
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Noto Color Emoji Flags
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 2.034;GOOG;noto-emoji:20211013:BETA
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      NotoColorEmojiFlags
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      Noto is a trademark of Google Inc.
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      Google, Inc.
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Google, Inc.
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x409">
+      Color emoji font using CBDT glyph data.
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://www.google.com/get/noto/
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      http://www.google.com/get/noto/
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://scripts.sil.org/OFL
+    </namerecord>
+  </name>
+
+  <post>
+    <formatType value="3.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-1244"/>
+    <underlineThickness value="131"/>
+    <isFixedPitch value="1"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+  </post>
+
+  <CBDT>
+    <header version="3.0"/>
+    <strikedata index="0">
+      <cbdt_bitmap_format_17 name="u1F1E6">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1E6.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1E7">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1E7.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1E8">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1E8.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1E9">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1E9.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1EA">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1EA.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1EB">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1EB.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1EC">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1EC.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1ED">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1ED.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1EE">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1EE.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1EF">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1EF.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1F0">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1F0.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1F1">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1F1.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1F2">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1F2.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1F3">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1F3.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1F4">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1F4.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1F5">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1F5.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1F6">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1F6.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1F7">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1F7.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1F8">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1F8.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1F9">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1F9.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1FA">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1FA.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1FB">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1FB.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1FC">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1FC.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1FD">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1FD.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1FE">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1FE.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="u1F1FF">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\u1F1FF.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00027">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00027.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00028">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00028.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00029">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00029.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00030">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00030.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00031">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00031.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00032">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00032.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00033">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00033.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00034">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00034.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00035">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00035.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00036">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00036.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00037">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00037.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00038">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00038.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00039">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00039.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00040">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00040.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00041">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00041.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00042">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00042.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00043">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00043.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00044">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00044.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00045">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00045.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00046">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00046.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00047">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00047.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00048">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00048.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00049">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00049.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00050">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00050.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00051">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00051.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00052">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00052.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00053">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00053.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00054">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00054.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00055">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00055.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00056">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00056.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00057">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00057.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00058">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00058.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00059">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00059.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00060">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00060.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00061">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00061.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00062">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00062.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00063">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00063.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00064">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00064.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00065">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00065.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00066">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00066.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00067">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00067.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00068">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00068.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00069">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00069.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00070">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00070.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00071">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00071.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00072">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00072.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00073">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00073.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00074">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00074.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00075">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00075.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00076">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00076.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00077">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00077.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00078">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00078.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00079">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00079.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00080">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00080.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00081">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00081.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00082">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00082.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00083">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00083.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00084">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00084.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00085">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00085.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00086">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00086.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00087">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00087.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00088">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00088.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00089">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00089.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00090">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00090.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00091">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00091.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00092">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00092.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00093">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00093.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00094">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00094.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00095">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00095.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00096">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00096.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00097">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00097.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00098">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00098.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00099">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00099.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00100">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00100.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00101">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00101.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00102">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00102.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00103">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00103.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00104">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00104.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00105">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00105.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00106">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00106.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00107">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00107.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00108">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00108.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00109">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00109.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00110">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00110.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00111">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00111.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00112">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00112.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00113">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00113.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00114">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00114.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00115">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00115.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00116">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00116.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00117">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00117.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00118">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00118.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00119">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00119.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00120">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00120.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00121">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00121.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00122">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00122.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00123">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00123.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00124">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00124.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00125">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00125.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00126">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00126.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00127">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00127.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00128">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00128.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00129">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00129.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00130">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00130.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00131">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00131.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00132">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00132.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00133">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00133.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00134">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00134.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00135">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00135.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00136">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00136.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00137">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00137.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00138">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00138.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00139">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00139.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00140">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00140.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00141">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00141.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00142">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00142.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00143">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00143.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00144">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00144.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00145">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00145.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00146">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00146.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00147">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00147.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00148">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00148.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00149">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00149.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00150">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00150.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00151">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00151.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00152">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00152.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00153">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00153.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00154">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00154.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00155">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00155.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00156">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00156.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00157">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00157.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00158">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00158.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00159">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00159.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00160">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00160.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00161">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00161.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00162">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00162.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00163">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00163.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00164">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00164.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00165">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00165.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00166">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00166.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00167">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00167.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00168">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00168.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00169">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00169.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00170">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00170.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00171">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00171.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00172">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00172.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00173">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00173.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00174">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00174.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00175">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00175.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00176">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00176.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00177">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00177.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00178">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00178.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00179">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00179.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00180">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00180.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00181">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00181.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00182">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00182.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00183">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00183.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00184">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00184.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00185">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00185.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00186">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00186.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00187">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00187.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00188">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00188.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00189">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00189.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00190">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00190.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00191">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00191.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00192">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00192.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00193">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00193.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00194">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00194.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00195">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00195.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00196">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00196.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00197">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00197.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00198">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00198.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00199">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00199.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00200">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00200.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00201">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00201.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00202">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00202.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00203">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00203.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00204">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00204.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00205">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00205.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00206">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00206.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00207">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00207.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00208">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00208.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00209">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00209.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00210">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00210.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00211">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00211.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00212">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00212.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00213">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00213.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00214">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00214.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00215">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00215.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00216">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00216.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00217">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00217.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00218">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00218.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00219">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00219.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00220">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00220.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00221">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00221.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00222">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00222.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00223">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00223.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00224">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00224.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00225">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00225.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00226">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00226.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00227">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00227.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00228">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00228.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00229">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00229.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00230">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00230.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00231">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00231.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00232">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00232.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00233">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00233.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00234">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00234.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00235">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00235.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00236">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00236.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00237">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00237.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00238">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00238.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00239">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00239.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00240">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00240.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00241">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00241.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00242">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00242.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00243">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00243.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00244">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00244.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00245">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00245.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00246">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00246.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00247">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00247.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00248">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00248.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00249">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00249.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00250">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00250.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00251">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00251.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00252">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00252.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00253">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00253.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00254">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00254.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00255">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00255.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00256">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00256.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00257">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00257.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00258">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00258.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00259">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00259.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00260">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00260.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00261">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00261.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00262">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00262.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00263">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00263.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00264">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00264.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00265">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00265.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00266">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00266.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00267">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00267.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00268">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00268.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00269">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00269.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00270">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00270.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00271">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00271.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00272">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00272.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00273">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00273.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00274">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00274.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00275">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00275.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00276">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00276.png"/>
+      </cbdt_bitmap_format_17>
+      <cbdt_bitmap_format_17 name="glyph00277">
+        <SmallGlyphMetrics>
+          <height value="128"/>
+          <width value="136"/>
+          <BearingX value="0"/>
+          <BearingY value="101"/>
+          <Advance value="136"/>
+        </SmallGlyphMetrics>
+        <extfileimagedata value=".\bitmaps\strike0\glyph00277.png"/>
+      </cbdt_bitmap_format_17>
+    </strikedata>
+  </CBDT>
+
+  <CBLC>
+    <header version="3.0"/>
+    <strike index="0">
+      <bitmapSizeTable>
+        <sbitLineMetrics direction="hori">
+          <ascender value="101"/>
+          <descender value="-27"/>
+          <widthMax value="136"/>
+          <caretSlopeNumerator value="0"/>
+          <caretSlopeDenominator value="0"/>
+          <caretOffset value="0"/>
+          <minOriginSB value="0"/>
+          <minAdvanceSB value="0"/>
+          <maxBeforeBL value="0"/>
+          <minAfterBL value="0"/>
+          <pad1 value="0"/>
+          <pad2 value="0"/>
+        </sbitLineMetrics>
+        <sbitLineMetrics direction="vert">
+          <ascender value="101"/>
+          <descender value="-27"/>
+          <widthMax value="136"/>
+          <caretSlopeNumerator value="0"/>
+          <caretSlopeDenominator value="0"/>
+          <caretOffset value="0"/>
+          <minOriginSB value="0"/>
+          <minAdvanceSB value="0"/>
+          <maxBeforeBL value="0"/>
+          <minAfterBL value="0"/>
+          <pad1 value="0"/>
+          <pad2 value="0"/>
+        </sbitLineMetrics>
+        <colorRef value="0"/>
+        <startGlyphIndex value="1"/>
+        <endGlyphIndex value="277"/>
+        <ppemX value="109"/>
+        <ppemY value="109"/>
+        <bitDepth value="32"/>
+        <flags value="1"/>
+      </bitmapSizeTable>
+      <!-- GlyphIds are written but not read. The firstGlyphIndex and
+           lastGlyphIndex values will be recalculated by the compiler. -->
+      <eblc_index_sub_table_1 imageFormat="17" firstGlyphIndex="1" lastGlyphIndex="26">
+        <glyphLoc id="1" name="u1F1E6"/>
+        <glyphLoc id="2" name="u1F1E7"/>
+        <glyphLoc id="3" name="u1F1E8"/>
+        <glyphLoc id="4" name="u1F1E9"/>
+        <glyphLoc id="5" name="u1F1EA"/>
+        <glyphLoc id="6" name="u1F1EB"/>
+        <glyphLoc id="7" name="u1F1EC"/>
+        <glyphLoc id="8" name="u1F1ED"/>
+        <glyphLoc id="9" name="u1F1EE"/>
+        <glyphLoc id="10" name="u1F1EF"/>
+        <glyphLoc id="11" name="u1F1F0"/>
+        <glyphLoc id="12" name="u1F1F1"/>
+        <glyphLoc id="13" name="u1F1F2"/>
+        <glyphLoc id="14" name="u1F1F3"/>
+        <glyphLoc id="15" name="u1F1F4"/>
+        <glyphLoc id="16" name="u1F1F5"/>
+        <glyphLoc id="17" name="u1F1F6"/>
+        <glyphLoc id="18" name="u1F1F7"/>
+        <glyphLoc id="19" name="u1F1F8"/>
+        <glyphLoc id="20" name="u1F1F9"/>
+        <glyphLoc id="21" name="u1F1FA"/>
+        <glyphLoc id="22" name="u1F1FB"/>
+        <glyphLoc id="23" name="u1F1FC"/>
+        <glyphLoc id="24" name="u1F1FD"/>
+        <glyphLoc id="25" name="u1F1FE"/>
+        <glyphLoc id="26" name="u1F1FF"/>
+      </eblc_index_sub_table_1>
+      <eblc_index_sub_table_1 imageFormat="17" firstGlyphIndex="27" lastGlyphIndex="277">
+        <glyphLoc id="27" name="glyph00027"/>
+        <glyphLoc id="28" name="glyph00028"/>
+        <glyphLoc id="29" name="glyph00029"/>
+        <glyphLoc id="30" name="glyph00030"/>
+        <glyphLoc id="31" name="glyph00031"/>
+        <glyphLoc id="32" name="glyph00032"/>
+        <glyphLoc id="33" name="glyph00033"/>
+        <glyphLoc id="34" name="glyph00034"/>
+        <glyphLoc id="35" name="glyph00035"/>
+        <glyphLoc id="36" name="glyph00036"/>
+        <glyphLoc id="37" name="glyph00037"/>
+        <glyphLoc id="38" name="glyph00038"/>
+        <glyphLoc id="39" name="glyph00039"/>
+        <glyphLoc id="40" name="glyph00040"/>
+        <glyphLoc id="41" name="glyph00041"/>
+        <glyphLoc id="42" name="glyph00042"/>
+        <glyphLoc id="43" name="glyph00043"/>
+        <glyphLoc id="44" name="glyph00044"/>
+        <glyphLoc id="45" name="glyph00045"/>
+        <glyphLoc id="46" name="glyph00046"/>
+        <glyphLoc id="47" name="glyph00047"/>
+        <glyphLoc id="48" name="glyph00048"/>
+        <glyphLoc id="49" name="glyph00049"/>
+        <glyphLoc id="50" name="glyph00050"/>
+        <glyphLoc id="51" name="glyph00051"/>
+        <glyphLoc id="52" name="glyph00052"/>
+        <glyphLoc id="53" name="glyph00053"/>
+        <glyphLoc id="54" name="glyph00054"/>
+        <glyphLoc id="55" name="glyph00055"/>
+        <glyphLoc id="56" name="glyph00056"/>
+        <glyphLoc id="57" name="glyph00057"/>
+        <glyphLoc id="58" name="glyph00058"/>
+        <glyphLoc id="59" name="glyph00059"/>
+        <glyphLoc id="60" name="glyph00060"/>
+        <glyphLoc id="61" name="glyph00061"/>
+        <glyphLoc id="62" name="glyph00062"/>
+        <glyphLoc id="63" name="glyph00063"/>
+        <glyphLoc id="64" name="glyph00064"/>
+        <glyphLoc id="65" name="glyph00065"/>
+        <glyphLoc id="66" name="glyph00066"/>
+        <glyphLoc id="67" name="glyph00067"/>
+        <glyphLoc id="68" name="glyph00068"/>
+        <glyphLoc id="69" name="glyph00069"/>
+        <glyphLoc id="70" name="glyph00070"/>
+        <glyphLoc id="71" name="glyph00071"/>
+        <glyphLoc id="72" name="glyph00072"/>
+        <glyphLoc id="73" name="glyph00073"/>
+        <glyphLoc id="74" name="glyph00074"/>
+        <glyphLoc id="75" name="glyph00075"/>
+        <glyphLoc id="76" name="glyph00076"/>
+        <glyphLoc id="77" name="glyph00077"/>
+        <glyphLoc id="78" name="glyph00078"/>
+        <glyphLoc id="79" name="glyph00079"/>
+        <glyphLoc id="80" name="glyph00080"/>
+        <glyphLoc id="81" name="glyph00081"/>
+        <glyphLoc id="82" name="glyph00082"/>
+        <glyphLoc id="83" name="glyph00083"/>
+        <glyphLoc id="84" name="glyph00084"/>
+        <glyphLoc id="85" name="glyph00085"/>
+        <glyphLoc id="86" name="glyph00086"/>
+        <glyphLoc id="87" name="glyph00087"/>
+        <glyphLoc id="88" name="glyph00088"/>
+        <glyphLoc id="89" name="glyph00089"/>
+        <glyphLoc id="90" name="glyph00090"/>
+        <glyphLoc id="91" name="glyph00091"/>
+        <glyphLoc id="92" name="glyph00092"/>
+        <glyphLoc id="93" name="glyph00093"/>
+        <glyphLoc id="94" name="glyph00094"/>
+        <glyphLoc id="95" name="glyph00095"/>
+        <glyphLoc id="96" name="glyph00096"/>
+        <glyphLoc id="97" name="glyph00097"/>
+        <glyphLoc id="98" name="glyph00098"/>
+        <glyphLoc id="99" name="glyph00099"/>
+        <glyphLoc id="100" name="glyph00100"/>
+        <glyphLoc id="101" name="glyph00101"/>
+        <glyphLoc id="102" name="glyph00102"/>
+        <glyphLoc id="103" name="glyph00103"/>
+        <glyphLoc id="104" name="glyph00104"/>
+        <glyphLoc id="105" name="glyph00105"/>
+        <glyphLoc id="106" name="glyph00106"/>
+        <glyphLoc id="107" name="glyph00107"/>
+        <glyphLoc id="108" name="glyph00108"/>
+        <glyphLoc id="109" name="glyph00109"/>
+        <glyphLoc id="110" name="glyph00110"/>
+        <glyphLoc id="111" name="glyph00111"/>
+        <glyphLoc id="112" name="glyph00112"/>
+        <glyphLoc id="113" name="glyph00113"/>
+        <glyphLoc id="114" name="glyph00114"/>
+        <glyphLoc id="115" name="glyph00115"/>
+        <glyphLoc id="116" name="glyph00116"/>
+        <glyphLoc id="117" name="glyph00117"/>
+        <glyphLoc id="118" name="glyph00118"/>
+        <glyphLoc id="119" name="glyph00119"/>
+        <glyphLoc id="120" name="glyph00120"/>
+        <glyphLoc id="121" name="glyph00121"/>
+        <glyphLoc id="122" name="glyph00122"/>
+        <glyphLoc id="123" name="glyph00123"/>
+        <glyphLoc id="124" name="glyph00124"/>
+        <glyphLoc id="125" name="glyph00125"/>
+        <glyphLoc id="126" name="glyph00126"/>
+        <glyphLoc id="127" name="glyph00127"/>
+        <glyphLoc id="128" name="glyph00128"/>
+        <glyphLoc id="129" name="glyph00129"/>
+        <glyphLoc id="130" name="glyph00130"/>
+        <glyphLoc id="131" name="glyph00131"/>
+        <glyphLoc id="132" name="glyph00132"/>
+        <glyphLoc id="133" name="glyph00133"/>
+        <glyphLoc id="134" name="glyph00134"/>
+        <glyphLoc id="135" name="glyph00135"/>
+        <glyphLoc id="136" name="glyph00136"/>
+        <glyphLoc id="137" name="glyph00137"/>
+        <glyphLoc id="138" name="glyph00138"/>
+        <glyphLoc id="139" name="glyph00139"/>
+        <glyphLoc id="140" name="glyph00140"/>
+        <glyphLoc id="141" name="glyph00141"/>
+        <glyphLoc id="142" name="glyph00142"/>
+        <glyphLoc id="143" name="glyph00143"/>
+        <glyphLoc id="144" name="glyph00144"/>
+        <glyphLoc id="145" name="glyph00145"/>
+        <glyphLoc id="146" name="glyph00146"/>
+        <glyphLoc id="147" name="glyph00147"/>
+        <glyphLoc id="148" name="glyph00148"/>
+        <glyphLoc id="149" name="glyph00149"/>
+        <glyphLoc id="150" name="glyph00150"/>
+        <glyphLoc id="151" name="glyph00151"/>
+        <glyphLoc id="152" name="glyph00152"/>
+        <glyphLoc id="153" name="glyph00153"/>
+        <glyphLoc id="154" name="glyph00154"/>
+        <glyphLoc id="155" name="glyph00155"/>
+        <glyphLoc id="156" name="glyph00156"/>
+        <glyphLoc id="157" name="glyph00157"/>
+        <glyphLoc id="158" name="glyph00158"/>
+        <glyphLoc id="159" name="glyph00159"/>
+        <glyphLoc id="160" name="glyph00160"/>
+        <glyphLoc id="161" name="glyph00161"/>
+        <glyphLoc id="162" name="glyph00162"/>
+        <glyphLoc id="163" name="glyph00163"/>
+        <glyphLoc id="164" name="glyph00164"/>
+        <glyphLoc id="165" name="glyph00165"/>
+        <glyphLoc id="166" name="glyph00166"/>
+        <glyphLoc id="167" name="glyph00167"/>
+        <glyphLoc id="168" name="glyph00168"/>
+        <glyphLoc id="169" name="glyph00169"/>
+        <glyphLoc id="170" name="glyph00170"/>
+        <glyphLoc id="171" name="glyph00171"/>
+        <glyphLoc id="172" name="glyph00172"/>
+        <glyphLoc id="173" name="glyph00173"/>
+        <glyphLoc id="174" name="glyph00174"/>
+        <glyphLoc id="175" name="glyph00175"/>
+        <glyphLoc id="176" name="glyph00176"/>
+        <glyphLoc id="177" name="glyph00177"/>
+        <glyphLoc id="178" name="glyph00178"/>
+        <glyphLoc id="179" name="glyph00179"/>
+        <glyphLoc id="180" name="glyph00180"/>
+        <glyphLoc id="181" name="glyph00181"/>
+        <glyphLoc id="182" name="glyph00182"/>
+        <glyphLoc id="183" name="glyph00183"/>
+        <glyphLoc id="184" name="glyph00184"/>
+        <glyphLoc id="185" name="glyph00185"/>
+        <glyphLoc id="186" name="glyph00186"/>
+        <glyphLoc id="187" name="glyph00187"/>
+        <glyphLoc id="188" name="glyph00188"/>
+        <glyphLoc id="189" name="glyph00189"/>
+        <glyphLoc id="190" name="glyph00190"/>
+        <glyphLoc id="191" name="glyph00191"/>
+        <glyphLoc id="192" name="glyph00192"/>
+        <glyphLoc id="193" name="glyph00193"/>
+        <glyphLoc id="194" name="glyph00194"/>
+        <glyphLoc id="195" name="glyph00195"/>
+        <glyphLoc id="196" name="glyph00196"/>
+        <glyphLoc id="197" name="glyph00197"/>
+        <glyphLoc id="198" name="glyph00198"/>
+        <glyphLoc id="199" name="glyph00199"/>
+        <glyphLoc id="200" name="glyph00200"/>
+        <glyphLoc id="201" name="glyph00201"/>
+        <glyphLoc id="202" name="glyph00202"/>
+        <glyphLoc id="203" name="glyph00203"/>
+        <glyphLoc id="204" name="glyph00204"/>
+        <glyphLoc id="205" name="glyph00205"/>
+        <glyphLoc id="206" name="glyph00206"/>
+        <glyphLoc id="207" name="glyph00207"/>
+        <glyphLoc id="208" name="glyph00208"/>
+        <glyphLoc id="209" name="glyph00209"/>
+        <glyphLoc id="210" name="glyph00210"/>
+        <glyphLoc id="211" name="glyph00211"/>
+        <glyphLoc id="212" name="glyph00212"/>
+        <glyphLoc id="213" name="glyph00213"/>
+        <glyphLoc id="214" name="glyph00214"/>
+        <glyphLoc id="215" name="glyph00215"/>
+        <glyphLoc id="216" name="glyph00216"/>
+        <glyphLoc id="217" name="glyph00217"/>
+        <glyphLoc id="218" name="glyph00218"/>
+        <glyphLoc id="219" name="glyph00219"/>
+        <glyphLoc id="220" name="glyph00220"/>
+        <glyphLoc id="221" name="glyph00221"/>
+        <glyphLoc id="222" name="glyph00222"/>
+        <glyphLoc id="223" name="glyph00223"/>
+        <glyphLoc id="224" name="glyph00224"/>
+        <glyphLoc id="225" name="glyph00225"/>
+        <glyphLoc id="226" name="glyph00226"/>
+        <glyphLoc id="227" name="glyph00227"/>
+        <glyphLoc id="228" name="glyph00228"/>
+        <glyphLoc id="229" name="glyph00229"/>
+        <glyphLoc id="230" name="glyph00230"/>
+        <glyphLoc id="231" name="glyph00231"/>
+        <glyphLoc id="232" name="glyph00232"/>
+        <glyphLoc id="233" name="glyph00233"/>
+        <glyphLoc id="234" name="glyph00234"/>
+        <glyphLoc id="235" name="glyph00235"/>
+        <glyphLoc id="236" name="glyph00236"/>
+        <glyphLoc id="237" name="glyph00237"/>
+        <glyphLoc id="238" name="glyph00238"/>
+        <glyphLoc id="239" name="glyph00239"/>
+        <glyphLoc id="240" name="glyph00240"/>
+        <glyphLoc id="241" name="glyph00241"/>
+        <glyphLoc id="242" name="glyph00242"/>
+        <glyphLoc id="243" name="glyph00243"/>
+        <glyphLoc id="244" name="glyph00244"/>
+        <glyphLoc id="245" name="glyph00245"/>
+        <glyphLoc id="246" name="glyph00246"/>
+        <glyphLoc id="247" name="glyph00247"/>
+        <glyphLoc id="248" name="glyph00248"/>
+        <glyphLoc id="249" name="glyph00249"/>
+        <glyphLoc id="250" name="glyph00250"/>
+        <glyphLoc id="251" name="glyph00251"/>
+        <glyphLoc id="252" name="glyph00252"/>
+        <glyphLoc id="253" name="glyph00253"/>
+        <glyphLoc id="254" name="glyph00254"/>
+        <glyphLoc id="255" name="glyph00255"/>
+        <glyphLoc id="256" name="glyph00256"/>
+        <glyphLoc id="257" name="glyph00257"/>
+        <glyphLoc id="258" name="glyph00258"/>
+        <glyphLoc id="259" name="glyph00259"/>
+        <glyphLoc id="260" name="glyph00260"/>
+        <glyphLoc id="261" name="glyph00261"/>
+        <glyphLoc id="262" name="glyph00262"/>
+        <glyphLoc id="263" name="glyph00263"/>
+        <glyphLoc id="264" name="glyph00264"/>
+        <glyphLoc id="265" name="glyph00265"/>
+        <glyphLoc id="266" name="glyph00266"/>
+        <glyphLoc id="267" name="glyph00267"/>
+        <glyphLoc id="268" name="glyph00268"/>
+        <glyphLoc id="269" name="glyph00269"/>
+        <glyphLoc id="270" name="glyph00270"/>
+        <glyphLoc id="271" name="glyph00271"/>
+        <glyphLoc id="272" name="glyph00272"/>
+        <glyphLoc id="273" name="glyph00273"/>
+        <glyphLoc id="274" name="glyph00274"/>
+        <glyphLoc id="275" name="glyph00275"/>
+        <glyphLoc id="276" name="glyph00276"/>
+        <glyphLoc id="277" name="glyph00277"/>
+      </eblc_index_sub_table_1>
+    </strike>
+  </CBLC>
+
+  <GSUB>
+    <Version value="0x00010000"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=1 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="2"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=4 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0">
+          <LigatureSet glyph="u1F1E6">
+            <Ligature components="u1F1E8" glyph="glyph00028"/>
+            <Ligature components="u1F1E9" glyph="glyph00029"/>
+            <Ligature components="u1F1EA" glyph="glyph00030"/>
+            <Ligature components="u1F1EB" glyph="glyph00031"/>
+            <Ligature components="u1F1EC" glyph="glyph00032"/>
+            <Ligature components="u1F1EE" glyph="glyph00033"/>
+            <Ligature components="u1F1F1" glyph="glyph00034"/>
+            <Ligature components="u1F1F2" glyph="glyph00035"/>
+            <Ligature components="u1F1F4" glyph="glyph00036"/>
+            <Ligature components="u1F1F6" glyph="glyph00037"/>
+            <Ligature components="u1F1F7" glyph="glyph00038"/>
+            <Ligature components="u1F1F8" glyph="glyph00039"/>
+            <Ligature components="u1F1F9" glyph="glyph00040"/>
+            <Ligature components="u1F1FA" glyph="glyph00041"/>
+            <Ligature components="u1F1FC" glyph="glyph00042"/>
+            <Ligature components="u1F1FD" glyph="glyph00043"/>
+            <Ligature components="u1F1FF" glyph="glyph00044"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1E7">
+            <Ligature components="u1F1E6" glyph="glyph00045"/>
+            <Ligature components="u1F1E7" glyph="glyph00046"/>
+            <Ligature components="u1F1E9" glyph="glyph00047"/>
+            <Ligature components="u1F1EA" glyph="glyph00048"/>
+            <Ligature components="u1F1EB" glyph="glyph00049"/>
+            <Ligature components="u1F1EC" glyph="glyph00050"/>
+            <Ligature components="u1F1ED" glyph="glyph00051"/>
+            <Ligature components="u1F1EE" glyph="glyph00052"/>
+            <Ligature components="u1F1EF" glyph="glyph00053"/>
+            <Ligature components="u1F1F1" glyph="glyph00054"/>
+            <Ligature components="u1F1F2" glyph="glyph00055"/>
+            <Ligature components="u1F1F3" glyph="glyph00056"/>
+            <Ligature components="u1F1F4" glyph="glyph00057"/>
+            <Ligature components="u1F1F6" glyph="glyph00058"/>
+            <Ligature components="u1F1F7" glyph="glyph00059"/>
+            <Ligature components="u1F1F8" glyph="glyph00060"/>
+            <Ligature components="u1F1F9" glyph="glyph00061"/>
+            <Ligature components="u1F1FB" glyph="glyph00194"/>
+            <Ligature components="u1F1FC" glyph="glyph00062"/>
+            <Ligature components="u1F1FE" glyph="glyph00063"/>
+            <Ligature components="u1F1FF" glyph="glyph00064"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1E8">
+            <Ligature components="u1F1E6" glyph="glyph00065"/>
+            <Ligature components="u1F1E8" glyph="glyph00066"/>
+            <Ligature components="u1F1E9" glyph="glyph00067"/>
+            <Ligature components="u1F1EB" glyph="glyph00068"/>
+            <Ligature components="u1F1EC" glyph="glyph00069"/>
+            <Ligature components="u1F1ED" glyph="glyph00070"/>
+            <Ligature components="u1F1EE" glyph="glyph00071"/>
+            <Ligature components="u1F1F0" glyph="glyph00072"/>
+            <Ligature components="u1F1F1" glyph="glyph00073"/>
+            <Ligature components="u1F1F2" glyph="glyph00074"/>
+            <Ligature components="u1F1F3" glyph="glyph00075"/>
+            <Ligature components="u1F1F4" glyph="glyph00076"/>
+            <Ligature components="u1F1F5" glyph="glyph00103"/>
+            <Ligature components="u1F1F7" glyph="glyph00077"/>
+            <Ligature components="u1F1FA" glyph="glyph00078"/>
+            <Ligature components="u1F1FB" glyph="glyph00079"/>
+            <Ligature components="u1F1FC" glyph="glyph00080"/>
+            <Ligature components="u1F1FD" glyph="glyph00081"/>
+            <Ligature components="u1F1FE" glyph="glyph00082"/>
+            <Ligature components="u1F1FF" glyph="glyph00083"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1E9">
+            <Ligature components="u1F1EA" glyph="glyph00084"/>
+            <Ligature components="u1F1EC" glyph="glyph00134"/>
+            <Ligature components="u1F1EF" glyph="glyph00085"/>
+            <Ligature components="u1F1F0" glyph="glyph00086"/>
+            <Ligature components="u1F1F2" glyph="glyph00087"/>
+            <Ligature components="u1F1F4" glyph="glyph00088"/>
+            <Ligature components="u1F1FF" glyph="glyph00089"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1EA">
+            <Ligature components="u1F1E6" glyph="glyph00095"/>
+            <Ligature components="u1F1E8" glyph="glyph00090"/>
+            <Ligature components="u1F1EA" glyph="glyph00091"/>
+            <Ligature components="u1F1EC" glyph="glyph00092"/>
+            <Ligature components="u1F1ED" glyph="glyph00093"/>
+            <Ligature components="u1F1F7" glyph="glyph00094"/>
+            <Ligature components="u1F1F8" glyph="glyph00095"/>
+            <Ligature components="u1F1F9" glyph="glyph00096"/>
+            <Ligature components="u1F1FA" glyph="glyph00097"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1EB">
+            <Ligature components="u1F1EE" glyph="glyph00098"/>
+            <Ligature components="u1F1EF" glyph="glyph00099"/>
+            <Ligature components="u1F1F0" glyph="glyph00100"/>
+            <Ligature components="u1F1F2" glyph="glyph00101"/>
+            <Ligature components="u1F1F4" glyph="glyph00102"/>
+            <Ligature components="u1F1F7" glyph="glyph00103"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1EC">
+            <Ligature components="u1F1E6" glyph="glyph00104"/>
+            <Ligature components="u1F1E7" glyph="glyph00105"/>
+            <Ligature components="u1F1E9" glyph="glyph00106"/>
+            <Ligature components="u1F1EA" glyph="glyph00107"/>
+            <Ligature components="u1F1EB" glyph="glyph00108"/>
+            <Ligature components="u1F1EC" glyph="glyph00109"/>
+            <Ligature components="u1F1ED" glyph="glyph00110"/>
+            <Ligature components="u1F1EE" glyph="glyph00111"/>
+            <Ligature components="u1F1F1" glyph="glyph00112"/>
+            <Ligature components="u1F1F2" glyph="glyph00113"/>
+            <Ligature components="u1F1F3" glyph="glyph00114"/>
+            <Ligature components="u1F1F5" glyph="glyph00115"/>
+            <Ligature components="u1F1F6" glyph="glyph00116"/>
+            <Ligature components="u1F1F7" glyph="glyph00117"/>
+            <Ligature components="u1F1F8" glyph="glyph00118"/>
+            <Ligature components="u1F1F9" glyph="glyph00119"/>
+            <Ligature components="u1F1FA" glyph="glyph00120"/>
+            <Ligature components="u1F1FC" glyph="glyph00121"/>
+            <Ligature components="u1F1FE" glyph="glyph00122"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1ED">
+            <Ligature components="u1F1F0" glyph="glyph00123"/>
+            <Ligature components="u1F1F2" glyph="glyph00041"/>
+            <Ligature components="u1F1F3" glyph="glyph00124"/>
+            <Ligature components="u1F1F7" glyph="glyph00125"/>
+            <Ligature components="u1F1F9" glyph="glyph00126"/>
+            <Ligature components="u1F1FA" glyph="glyph00127"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1EE">
+            <Ligature components="u1F1E8" glyph="glyph00128"/>
+            <Ligature components="u1F1E9" glyph="glyph00129"/>
+            <Ligature components="u1F1EA" glyph="glyph00130"/>
+            <Ligature components="u1F1F1" glyph="glyph00131"/>
+            <Ligature components="u1F1F2" glyph="glyph00132"/>
+            <Ligature components="u1F1F3" glyph="glyph00133"/>
+            <Ligature components="u1F1F4" glyph="glyph00134"/>
+            <Ligature components="u1F1F6" glyph="glyph00135"/>
+            <Ligature components="u1F1F7" glyph="glyph00136"/>
+            <Ligature components="u1F1F8" glyph="glyph00137"/>
+            <Ligature components="u1F1F9" glyph="glyph00138"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1EF">
+            <Ligature components="u1F1EA" glyph="glyph00139"/>
+            <Ligature components="u1F1F2" glyph="glyph00140"/>
+            <Ligature components="u1F1F4" glyph="glyph00141"/>
+            <Ligature components="u1F1F5" glyph="glyph00142"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F0">
+            <Ligature components="u1F1EA" glyph="glyph00143"/>
+            <Ligature components="u1F1EC" glyph="glyph00144"/>
+            <Ligature components="u1F1ED" glyph="glyph00145"/>
+            <Ligature components="u1F1EE" glyph="glyph00146"/>
+            <Ligature components="u1F1F2" glyph="glyph00147"/>
+            <Ligature components="u1F1F3" glyph="glyph00148"/>
+            <Ligature components="u1F1F5" glyph="glyph00149"/>
+            <Ligature components="u1F1F7" glyph="glyph00150"/>
+            <Ligature components="u1F1FC" glyph="glyph00151"/>
+            <Ligature components="u1F1FE" glyph="glyph00152"/>
+            <Ligature components="u1F1FF" glyph="glyph00153"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F1">
+            <Ligature components="u1F1E6" glyph="glyph00154"/>
+            <Ligature components="u1F1E7" glyph="glyph00155"/>
+            <Ligature components="u1F1E8" glyph="glyph00156"/>
+            <Ligature components="u1F1EE" glyph="glyph00157"/>
+            <Ligature components="u1F1F0" glyph="glyph00158"/>
+            <Ligature components="u1F1F7" glyph="glyph00159"/>
+            <Ligature components="u1F1F8" glyph="glyph00160"/>
+            <Ligature components="u1F1F9" glyph="glyph00161"/>
+            <Ligature components="u1F1FA" glyph="glyph00162"/>
+            <Ligature components="u1F1FB" glyph="glyph00163"/>
+            <Ligature components="u1F1FE" glyph="glyph00164"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F2">
+            <Ligature components="u1F1E6" glyph="glyph00165"/>
+            <Ligature components="u1F1E8" glyph="glyph00166"/>
+            <Ligature components="u1F1E9" glyph="glyph00167"/>
+            <Ligature components="u1F1EA" glyph="glyph00168"/>
+            <Ligature components="u1F1EB" glyph="glyph00103"/>
+            <Ligature components="u1F1EC" glyph="glyph00169"/>
+            <Ligature components="u1F1ED" glyph="glyph00170"/>
+            <Ligature components="u1F1F0" glyph="glyph00171"/>
+            <Ligature components="u1F1F1" glyph="glyph00172"/>
+            <Ligature components="u1F1F2" glyph="glyph00173"/>
+            <Ligature components="u1F1F3" glyph="glyph00174"/>
+            <Ligature components="u1F1F4" glyph="glyph00175"/>
+            <Ligature components="u1F1F5" glyph="glyph00176"/>
+            <Ligature components="u1F1F6" glyph="glyph00177"/>
+            <Ligature components="u1F1F7" glyph="glyph00178"/>
+            <Ligature components="u1F1F8" glyph="glyph00179"/>
+            <Ligature components="u1F1F9" glyph="glyph00180"/>
+            <Ligature components="u1F1FA" glyph="glyph00181"/>
+            <Ligature components="u1F1FB" glyph="glyph00182"/>
+            <Ligature components="u1F1FC" glyph="glyph00183"/>
+            <Ligature components="u1F1FD" glyph="glyph00184"/>
+            <Ligature components="u1F1FE" glyph="glyph00185"/>
+            <Ligature components="u1F1FF" glyph="glyph00186"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F3">
+            <Ligature components="u1F1E6" glyph="glyph00187"/>
+            <Ligature components="u1F1E8" glyph="glyph00188"/>
+            <Ligature components="u1F1EA" glyph="glyph00189"/>
+            <Ligature components="u1F1EB" glyph="glyph00190"/>
+            <Ligature components="u1F1EC" glyph="glyph00191"/>
+            <Ligature components="u1F1EE" glyph="glyph00192"/>
+            <Ligature components="u1F1F1" glyph="glyph00193"/>
+            <Ligature components="u1F1F4" glyph="glyph00194"/>
+            <Ligature components="u1F1F5" glyph="glyph00195"/>
+            <Ligature components="u1F1F7" glyph="glyph00196"/>
+            <Ligature components="u1F1FA" glyph="glyph00197"/>
+            <Ligature components="u1F1FF" glyph="glyph00198"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F4">
+            <Ligature components="u1F1F2" glyph="glyph00199"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F5">
+            <Ligature components="u1F1E6" glyph="glyph00200"/>
+            <Ligature components="u1F1EA" glyph="glyph00201"/>
+            <Ligature components="u1F1EB" glyph="glyph00202"/>
+            <Ligature components="u1F1EC" glyph="glyph00203"/>
+            <Ligature components="u1F1ED" glyph="glyph00204"/>
+            <Ligature components="u1F1F0" glyph="glyph00205"/>
+            <Ligature components="u1F1F1" glyph="glyph00206"/>
+            <Ligature components="u1F1F2" glyph="glyph00207"/>
+            <Ligature components="u1F1F3" glyph="glyph00208"/>
+            <Ligature components="u1F1F7" glyph="glyph00209"/>
+            <Ligature components="u1F1F8" glyph="glyph00210"/>
+            <Ligature components="u1F1F9" glyph="glyph00211"/>
+            <Ligature components="u1F1FC" glyph="glyph00212"/>
+            <Ligature components="u1F1FE" glyph="glyph00213"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F6">
+            <Ligature components="u1F1E6" glyph="glyph00214"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F7">
+            <Ligature components="u1F1EA" glyph="glyph00215"/>
+            <Ligature components="u1F1F4" glyph="glyph00216"/>
+            <Ligature components="u1F1F8" glyph="glyph00217"/>
+            <Ligature components="u1F1FA" glyph="glyph00218"/>
+            <Ligature components="u1F1FC" glyph="glyph00219"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F8">
+            <Ligature components="u1F1E6" glyph="glyph00220"/>
+            <Ligature components="u1F1E7" glyph="glyph00221"/>
+            <Ligature components="u1F1E8" glyph="glyph00222"/>
+            <Ligature components="u1F1E9" glyph="glyph00223"/>
+            <Ligature components="u1F1EA" glyph="glyph00224"/>
+            <Ligature components="u1F1EC" glyph="glyph00225"/>
+            <Ligature components="u1F1ED" glyph="glyph00226"/>
+            <Ligature components="u1F1EE" glyph="glyph00227"/>
+            <Ligature components="u1F1EF" glyph="glyph00194"/>
+            <Ligature components="u1F1F0" glyph="glyph00228"/>
+            <Ligature components="u1F1F1" glyph="glyph00229"/>
+            <Ligature components="u1F1F2" glyph="glyph00230"/>
+            <Ligature components="u1F1F3" glyph="glyph00231"/>
+            <Ligature components="u1F1F4" glyph="glyph00232"/>
+            <Ligature components="u1F1F7" glyph="glyph00233"/>
+            <Ligature components="u1F1F8" glyph="glyph00234"/>
+            <Ligature components="u1F1F9" glyph="glyph00235"/>
+            <Ligature components="u1F1FB" glyph="glyph00236"/>
+            <Ligature components="u1F1FD" glyph="glyph00237"/>
+            <Ligature components="u1F1FE" glyph="glyph00238"/>
+            <Ligature components="u1F1FF" glyph="glyph00239"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F9">
+            <Ligature components="u1F1E6" glyph="glyph00240"/>
+            <Ligature components="u1F1E8" glyph="glyph00241"/>
+            <Ligature components="u1F1E9" glyph="glyph00242"/>
+            <Ligature components="u1F1EB" glyph="glyph00243"/>
+            <Ligature components="u1F1EC" glyph="glyph00244"/>
+            <Ligature components="u1F1ED" glyph="glyph00245"/>
+            <Ligature components="u1F1EF" glyph="glyph00246"/>
+            <Ligature components="u1F1F0" glyph="glyph00247"/>
+            <Ligature components="u1F1F1" glyph="glyph00248"/>
+            <Ligature components="u1F1F2" glyph="glyph00249"/>
+            <Ligature components="u1F1F3" glyph="glyph00250"/>
+            <Ligature components="u1F1F4" glyph="glyph00251"/>
+            <Ligature components="u1F1F7" glyph="glyph00252"/>
+            <Ligature components="u1F1F9" glyph="glyph00253"/>
+            <Ligature components="u1F1FB" glyph="glyph00254"/>
+            <Ligature components="u1F1FC" glyph="glyph00255"/>
+            <Ligature components="u1F1FF" glyph="glyph00256"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1FA">
+            <Ligature components="u1F1E6" glyph="glyph00257"/>
+            <Ligature components="u1F1EC" glyph="glyph00258"/>
+            <Ligature components="u1F1F2" glyph="glyph00260"/>
+            <Ligature components="u1F1F3" glyph="glyph00259"/>
+            <Ligature components="u1F1F8" glyph="glyph00260"/>
+            <Ligature components="u1F1FE" glyph="glyph00261"/>
+            <Ligature components="u1F1FF" glyph="glyph00262"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1FB">
+            <Ligature components="u1F1E6" glyph="glyph00263"/>
+            <Ligature components="u1F1E8" glyph="glyph00264"/>
+            <Ligature components="u1F1EA" glyph="glyph00265"/>
+            <Ligature components="u1F1EC" glyph="glyph00266"/>
+            <Ligature components="u1F1EE" glyph="glyph00267"/>
+            <Ligature components="u1F1F3" glyph="glyph00268"/>
+            <Ligature components="u1F1FA" glyph="glyph00269"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1FC">
+            <Ligature components="u1F1EB" glyph="glyph00270"/>
+            <Ligature components="u1F1F8" glyph="glyph00271"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1FD">
+            <Ligature components="u1F1F0" glyph="glyph00272"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1FE">
+            <Ligature components="u1F1EA" glyph="glyph00273"/>
+            <Ligature components="u1F1F9" glyph="glyph00274"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1FF">
+            <Ligature components="u1F1E6" glyph="glyph00275"/>
+            <Ligature components="u1F1F2" glyph="glyph00276"/>
+            <Ligature components="u1F1FC" glyph="glyph00277"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="2"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <MultipleSubst index="0">
+          <Substitution in="u1F1E6" out=""/>
+          <Substitution in="u1F1E7" out=""/>
+          <Substitution in="u1F1E8" out=""/>
+          <Substitution in="u1F1E9" out=""/>
+          <Substitution in="u1F1EA" out=""/>
+          <Substitution in="u1F1EB" out=""/>
+          <Substitution in="u1F1EC" out=""/>
+          <Substitution in="u1F1ED" out=""/>
+          <Substitution in="u1F1EE" out=""/>
+          <Substitution in="u1F1EF" out=""/>
+          <Substitution in="u1F1F0" out=""/>
+          <Substitution in="u1F1F1" out=""/>
+          <Substitution in="u1F1F2" out=""/>
+          <Substitution in="u1F1F3" out=""/>
+          <Substitution in="u1F1F4" out=""/>
+          <Substitution in="u1F1F5" out=""/>
+          <Substitution in="u1F1F6" out=""/>
+          <Substitution in="u1F1F7" out=""/>
+          <Substitution in="u1F1F8" out=""/>
+          <Substitution in="u1F1F9" out=""/>
+          <Substitution in="u1F1FA" out=""/>
+          <Substitution in="u1F1FB" out=""/>
+          <Substitution in="u1F1FC" out=""/>
+          <Substitution in="u1F1FD" out=""/>
+          <Substitution in="u1F1FE" out=""/>
+          <Substitution in="u1F1FF" out=""/>
+        </MultipleSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="5"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ContextSubst index="0" Format="2">
+          <Coverage>
+            <Glyph value="u1F1E6"/>
+            <Glyph value="u1F1E7"/>
+            <Glyph value="u1F1E8"/>
+            <Glyph value="u1F1E9"/>
+            <Glyph value="u1F1EA"/>
+            <Glyph value="u1F1EB"/>
+            <Glyph value="u1F1EC"/>
+            <Glyph value="u1F1ED"/>
+            <Glyph value="u1F1EE"/>
+            <Glyph value="u1F1EF"/>
+            <Glyph value="u1F1F0"/>
+            <Glyph value="u1F1F1"/>
+            <Glyph value="u1F1F2"/>
+            <Glyph value="u1F1F3"/>
+            <Glyph value="u1F1F4"/>
+            <Glyph value="u1F1F5"/>
+            <Glyph value="u1F1F6"/>
+            <Glyph value="u1F1F7"/>
+            <Glyph value="u1F1F8"/>
+            <Glyph value="u1F1F9"/>
+            <Glyph value="u1F1FA"/>
+            <Glyph value="u1F1FB"/>
+            <Glyph value="u1F1FC"/>
+            <Glyph value="u1F1FD"/>
+            <Glyph value="u1F1FE"/>
+            <Glyph value="u1F1FF"/>
+          </Coverage>
+          <ClassDef>
+            <ClassDef glyph="u1F1E6" class="1"/>
+            <ClassDef glyph="u1F1E7" class="1"/>
+            <ClassDef glyph="u1F1E8" class="1"/>
+            <ClassDef glyph="u1F1E9" class="1"/>
+            <ClassDef glyph="u1F1EA" class="1"/>
+            <ClassDef glyph="u1F1EB" class="1"/>
+            <ClassDef glyph="u1F1EC" class="1"/>
+            <ClassDef glyph="u1F1ED" class="1"/>
+            <ClassDef glyph="u1F1EE" class="1"/>
+            <ClassDef glyph="u1F1EF" class="1"/>
+            <ClassDef glyph="u1F1F0" class="1"/>
+            <ClassDef glyph="u1F1F1" class="1"/>
+            <ClassDef glyph="u1F1F2" class="1"/>
+            <ClassDef glyph="u1F1F3" class="1"/>
+            <ClassDef glyph="u1F1F4" class="1"/>
+            <ClassDef glyph="u1F1F5" class="1"/>
+            <ClassDef glyph="u1F1F6" class="1"/>
+            <ClassDef glyph="u1F1F7" class="1"/>
+            <ClassDef glyph="u1F1F8" class="1"/>
+            <ClassDef glyph="u1F1F9" class="1"/>
+            <ClassDef glyph="u1F1FA" class="1"/>
+            <ClassDef glyph="u1F1FB" class="1"/>
+            <ClassDef glyph="u1F1FC" class="1"/>
+            <ClassDef glyph="u1F1FD" class="1"/>
+            <ClassDef glyph="u1F1FE" class="1"/>
+            <ClassDef glyph="u1F1FF" class="1"/>
+          </ClassDef>
+          <!-- SubClassSetCount=2 -->
+          <SubClassSet index="0" empty="1"/>
+          <SubClassSet index="1">
+            <!-- SubClassRuleCount=1 -->
+            <SubClassRule index="0">
+              <!-- GlyphCount=2 -->
+              <!-- SubstCount=2 -->
+              <Class index="0" value="1"/>
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="3"/>
+              </SubstLookupRecord>
+              <SubstLookupRecord index="1">
+                <SequenceIndex value="1"/>
+                <LookupListIndex value="1"/>
+              </SubstLookupRecord>
+            </SubClassRule>
+          </SubClassSet>
+        </ContextSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="u1F1E6" out="glyph00027"/>
+          <Substitution in="u1F1E7" out="glyph00027"/>
+          <Substitution in="u1F1E8" out="glyph00027"/>
+          <Substitution in="u1F1E9" out="glyph00027"/>
+          <Substitution in="u1F1EA" out="glyph00027"/>
+          <Substitution in="u1F1EB" out="glyph00027"/>
+          <Substitution in="u1F1EC" out="glyph00027"/>
+          <Substitution in="u1F1ED" out="glyph00027"/>
+          <Substitution in="u1F1EE" out="glyph00027"/>
+          <Substitution in="u1F1EF" out="glyph00027"/>
+          <Substitution in="u1F1F0" out="glyph00027"/>
+          <Substitution in="u1F1F1" out="glyph00027"/>
+          <Substitution in="u1F1F2" out="glyph00027"/>
+          <Substitution in="u1F1F3" out="glyph00027"/>
+          <Substitution in="u1F1F4" out="glyph00027"/>
+          <Substitution in="u1F1F5" out="glyph00027"/>
+          <Substitution in="u1F1F6" out="glyph00027"/>
+          <Substitution in="u1F1F7" out="glyph00027"/>
+          <Substitution in="u1F1F8" out="glyph00027"/>
+          <Substitution in="u1F1F9" out="glyph00027"/>
+          <Substitution in="u1F1FA" out="glyph00027"/>
+          <Substitution in="u1F1FB" out="glyph00027"/>
+          <Substitution in="u1F1FC" out="glyph00027"/>
+          <Substitution in="u1F1FD" out="glyph00027"/>
+          <Substitution in="u1F1FE" out="glyph00027"/>
+          <Substitution in="u1F1FF" out="glyph00027"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+  <vhea>
+    <tableVersion value="0x00010000"/>
+    <ascent value="1275"/>
+    <descent value="-1275"/>
+    <lineGap value="0"/>
+    <advanceHeightMax value="2500"/>
+    <minTopSideBearing value="0"/>
+    <minBottomSideBearing value="0"/>
+    <yMaxExtent value="2400"/>
+    <caretSlopeRise value="0"/>
+    <caretSlopeRun value="1"/>
+    <caretOffset value="0"/>
+    <reserved1 value="0"/>
+    <reserved2 value="0"/>
+    <reserved3 value="0"/>
+    <reserved4 value="0"/>
+    <metricDataFormat value="0"/>
+    <numberOfVMetrics value="1"/>
+  </vhea>
+
+  <vmtx>
+    <mtx name=".notdef" height="2500" tsb="0"/>
+    <mtx name="glyph00027" height="2500" tsb="0"/>
+    <mtx name="glyph00028" height="2500" tsb="0"/>
+    <mtx name="glyph00029" height="2500" tsb="0"/>
+    <mtx name="glyph00030" height="2500" tsb="0"/>
+    <mtx name="glyph00031" height="2500" tsb="0"/>
+    <mtx name="glyph00032" height="2500" tsb="0"/>
+    <mtx name="glyph00033" height="2500" tsb="0"/>
+    <mtx name="glyph00034" height="2500" tsb="0"/>
+    <mtx name="glyph00035" height="2500" tsb="0"/>
+    <mtx name="glyph00036" height="2500" tsb="0"/>
+    <mtx name="glyph00037" height="2500" tsb="0"/>
+    <mtx name="glyph00038" height="2500" tsb="0"/>
+    <mtx name="glyph00039" height="2500" tsb="0"/>
+    <mtx name="glyph00040" height="2500" tsb="0"/>
+    <mtx name="glyph00041" height="2500" tsb="0"/>
+    <mtx name="glyph00042" height="2500" tsb="0"/>
+    <mtx name="glyph00043" height="2500" tsb="0"/>
+    <mtx name="glyph00044" height="2500" tsb="0"/>
+    <mtx name="glyph00045" height="2500" tsb="0"/>
+    <mtx name="glyph00046" height="2500" tsb="0"/>
+    <mtx name="glyph00047" height="2500" tsb="0"/>
+    <mtx name="glyph00048" height="2500" tsb="0"/>
+    <mtx name="glyph00049" height="2500" tsb="0"/>
+    <mtx name="glyph00050" height="2500" tsb="0"/>
+    <mtx name="glyph00051" height="2500" tsb="0"/>
+    <mtx name="glyph00052" height="2500" tsb="0"/>
+    <mtx name="glyph00053" height="2500" tsb="0"/>
+    <mtx name="glyph00054" height="2500" tsb="0"/>
+    <mtx name="glyph00055" height="2500" tsb="0"/>
+    <mtx name="glyph00056" height="2500" tsb="0"/>
+    <mtx name="glyph00057" height="2500" tsb="0"/>
+    <mtx name="glyph00058" height="2500" tsb="0"/>
+    <mtx name="glyph00059" height="2500" tsb="0"/>
+    <mtx name="glyph00060" height="2500" tsb="0"/>
+    <mtx name="glyph00061" height="2500" tsb="0"/>
+    <mtx name="glyph00062" height="2500" tsb="0"/>
+    <mtx name="glyph00063" height="2500" tsb="0"/>
+    <mtx name="glyph00064" height="2500" tsb="0"/>
+    <mtx name="glyph00065" height="2500" tsb="0"/>
+    <mtx name="glyph00066" height="2500" tsb="0"/>
+    <mtx name="glyph00067" height="2500" tsb="0"/>
+    <mtx name="glyph00068" height="2500" tsb="0"/>
+    <mtx name="glyph00069" height="2500" tsb="0"/>
+    <mtx name="glyph00070" height="2500" tsb="0"/>
+    <mtx name="glyph00071" height="2500" tsb="0"/>
+    <mtx name="glyph00072" height="2500" tsb="0"/>
+    <mtx name="glyph00073" height="2500" tsb="0"/>
+    <mtx name="glyph00074" height="2500" tsb="0"/>
+    <mtx name="glyph00075" height="2500" tsb="0"/>
+    <mtx name="glyph00076" height="2500" tsb="0"/>
+    <mtx name="glyph00077" height="2500" tsb="0"/>
+    <mtx name="glyph00078" height="2500" tsb="0"/>
+    <mtx name="glyph00079" height="2500" tsb="0"/>
+    <mtx name="glyph00080" height="2500" tsb="0"/>
+    <mtx name="glyph00081" height="2500" tsb="0"/>
+    <mtx name="glyph00082" height="2500" tsb="0"/>
+    <mtx name="glyph00083" height="2500" tsb="0"/>
+    <mtx name="glyph00084" height="2500" tsb="0"/>
+    <mtx name="glyph00085" height="2500" tsb="0"/>
+    <mtx name="glyph00086" height="2500" tsb="0"/>
+    <mtx name="glyph00087" height="2500" tsb="0"/>
+    <mtx name="glyph00088" height="2500" tsb="0"/>
+    <mtx name="glyph00089" height="2500" tsb="0"/>
+    <mtx name="glyph00090" height="2500" tsb="0"/>
+    <mtx name="glyph00091" height="2500" tsb="0"/>
+    <mtx name="glyph00092" height="2500" tsb="0"/>
+    <mtx name="glyph00093" height="2500" tsb="0"/>
+    <mtx name="glyph00094" height="2500" tsb="0"/>
+    <mtx name="glyph00095" height="2500" tsb="0"/>
+    <mtx name="glyph00096" height="2500" tsb="0"/>
+    <mtx name="glyph00097" height="2500" tsb="0"/>
+    <mtx name="glyph00098" height="2500" tsb="0"/>
+    <mtx name="glyph00099" height="2500" tsb="0"/>
+    <mtx name="glyph00100" height="2500" tsb="0"/>
+    <mtx name="glyph00101" height="2500" tsb="0"/>
+    <mtx name="glyph00102" height="2500" tsb="0"/>
+    <mtx name="glyph00103" height="2500" tsb="0"/>
+    <mtx name="glyph00104" height="2500" tsb="0"/>
+    <mtx name="glyph00105" height="2500" tsb="0"/>
+    <mtx name="glyph00106" height="2500" tsb="0"/>
+    <mtx name="glyph00107" height="2500" tsb="0"/>
+    <mtx name="glyph00108" height="2500" tsb="0"/>
+    <mtx name="glyph00109" height="2500" tsb="0"/>
+    <mtx name="glyph00110" height="2500" tsb="0"/>
+    <mtx name="glyph00111" height="2500" tsb="0"/>
+    <mtx name="glyph00112" height="2500" tsb="0"/>
+    <mtx name="glyph00113" height="2500" tsb="0"/>
+    <mtx name="glyph00114" height="2500" tsb="0"/>
+    <mtx name="glyph00115" height="2500" tsb="0"/>
+    <mtx name="glyph00116" height="2500" tsb="0"/>
+    <mtx name="glyph00117" height="2500" tsb="0"/>
+    <mtx name="glyph00118" height="2500" tsb="0"/>
+    <mtx name="glyph00119" height="2500" tsb="0"/>
+    <mtx name="glyph00120" height="2500" tsb="0"/>
+    <mtx name="glyph00121" height="2500" tsb="0"/>
+    <mtx name="glyph00122" height="2500" tsb="0"/>
+    <mtx name="glyph00123" height="2500" tsb="0"/>
+    <mtx name="glyph00124" height="2500" tsb="0"/>
+    <mtx name="glyph00125" height="2500" tsb="0"/>
+    <mtx name="glyph00126" height="2500" tsb="0"/>
+    <mtx name="glyph00127" height="2500" tsb="0"/>
+    <mtx name="glyph00128" height="2500" tsb="0"/>
+    <mtx name="glyph00129" height="2500" tsb="0"/>
+    <mtx name="glyph00130" height="2500" tsb="0"/>
+    <mtx name="glyph00131" height="2500" tsb="0"/>
+    <mtx name="glyph00132" height="2500" tsb="0"/>
+    <mtx name="glyph00133" height="2500" tsb="0"/>
+    <mtx name="glyph00134" height="2500" tsb="0"/>
+    <mtx name="glyph00135" height="2500" tsb="0"/>
+    <mtx name="glyph00136" height="2500" tsb="0"/>
+    <mtx name="glyph00137" height="2500" tsb="0"/>
+    <mtx name="glyph00138" height="2500" tsb="0"/>
+    <mtx name="glyph00139" height="2500" tsb="0"/>
+    <mtx name="glyph00140" height="2500" tsb="0"/>
+    <mtx name="glyph00141" height="2500" tsb="0"/>
+    <mtx name="glyph00142" height="2500" tsb="0"/>
+    <mtx name="glyph00143" height="2500" tsb="0"/>
+    <mtx name="glyph00144" height="2500" tsb="0"/>
+    <mtx name="glyph00145" height="2500" tsb="0"/>
+    <mtx name="glyph00146" height="2500" tsb="0"/>
+    <mtx name="glyph00147" height="2500" tsb="0"/>
+    <mtx name="glyph00148" height="2500" tsb="0"/>
+    <mtx name="glyph00149" height="2500" tsb="0"/>
+    <mtx name="glyph00150" height="2500" tsb="0"/>
+    <mtx name="glyph00151" height="2500" tsb="0"/>
+    <mtx name="glyph00152" height="2500" tsb="0"/>
+    <mtx name="glyph00153" height="2500" tsb="0"/>
+    <mtx name="glyph00154" height="2500" tsb="0"/>
+    <mtx name="glyph00155" height="2500" tsb="0"/>
+    <mtx name="glyph00156" height="2500" tsb="0"/>
+    <mtx name="glyph00157" height="2500" tsb="0"/>
+    <mtx name="glyph00158" height="2500" tsb="0"/>
+    <mtx name="glyph00159" height="2500" tsb="0"/>
+    <mtx name="glyph00160" height="2500" tsb="0"/>
+    <mtx name="glyph00161" height="2500" tsb="0"/>
+    <mtx name="glyph00162" height="2500" tsb="0"/>
+    <mtx name="glyph00163" height="2500" tsb="0"/>
+    <mtx name="glyph00164" height="2500" tsb="0"/>
+    <mtx name="glyph00165" height="2500" tsb="0"/>
+    <mtx name="glyph00166" height="2500" tsb="0"/>
+    <mtx name="glyph00167" height="2500" tsb="0"/>
+    <mtx name="glyph00168" height="2500" tsb="0"/>
+    <mtx name="glyph00169" height="2500" tsb="0"/>
+    <mtx name="glyph00170" height="2500" tsb="0"/>
+    <mtx name="glyph00171" height="2500" tsb="0"/>
+    <mtx name="glyph00172" height="2500" tsb="0"/>
+    <mtx name="glyph00173" height="2500" tsb="0"/>
+    <mtx name="glyph00174" height="2500" tsb="0"/>
+    <mtx name="glyph00175" height="2500" tsb="0"/>
+    <mtx name="glyph00176" height="2500" tsb="0"/>
+    <mtx name="glyph00177" height="2500" tsb="0"/>
+    <mtx name="glyph00178" height="2500" tsb="0"/>
+    <mtx name="glyph00179" height="2500" tsb="0"/>
+    <mtx name="glyph00180" height="2500" tsb="0"/>
+    <mtx name="glyph00181" height="2500" tsb="0"/>
+    <mtx name="glyph00182" height="2500" tsb="0"/>
+    <mtx name="glyph00183" height="2500" tsb="0"/>
+    <mtx name="glyph00184" height="2500" tsb="0"/>
+    <mtx name="glyph00185" height="2500" tsb="0"/>
+    <mtx name="glyph00186" height="2500" tsb="0"/>
+    <mtx name="glyph00187" height="2500" tsb="0"/>
+    <mtx name="glyph00188" height="2500" tsb="0"/>
+    <mtx name="glyph00189" height="2500" tsb="0"/>
+    <mtx name="glyph00190" height="2500" tsb="0"/>
+    <mtx name="glyph00191" height="2500" tsb="0"/>
+    <mtx name="glyph00192" height="2500" tsb="0"/>
+    <mtx name="glyph00193" height="2500" tsb="0"/>
+    <mtx name="glyph00194" height="2500" tsb="0"/>
+    <mtx name="glyph00195" height="2500" tsb="0"/>
+    <mtx name="glyph00196" height="2500" tsb="0"/>
+    <mtx name="glyph00197" height="2500" tsb="0"/>
+    <mtx name="glyph00198" height="2500" tsb="0"/>
+    <mtx name="glyph00199" height="2500" tsb="0"/>
+    <mtx name="glyph00200" height="2500" tsb="0"/>
+    <mtx name="glyph00201" height="2500" tsb="0"/>
+    <mtx name="glyph00202" height="2500" tsb="0"/>
+    <mtx name="glyph00203" height="2500" tsb="0"/>
+    <mtx name="glyph00204" height="2500" tsb="0"/>
+    <mtx name="glyph00205" height="2500" tsb="0"/>
+    <mtx name="glyph00206" height="2500" tsb="0"/>
+    <mtx name="glyph00207" height="2500" tsb="0"/>
+    <mtx name="glyph00208" height="2500" tsb="0"/>
+    <mtx name="glyph00209" height="2500" tsb="0"/>
+    <mtx name="glyph00210" height="2500" tsb="0"/>
+    <mtx name="glyph00211" height="2500" tsb="0"/>
+    <mtx name="glyph00212" height="2500" tsb="0"/>
+    <mtx name="glyph00213" height="2500" tsb="0"/>
+    <mtx name="glyph00214" height="2500" tsb="0"/>
+    <mtx name="glyph00215" height="2500" tsb="0"/>
+    <mtx name="glyph00216" height="2500" tsb="0"/>
+    <mtx name="glyph00217" height="2500" tsb="0"/>
+    <mtx name="glyph00218" height="2500" tsb="0"/>
+    <mtx name="glyph00219" height="2500" tsb="0"/>
+    <mtx name="glyph00220" height="2500" tsb="0"/>
+    <mtx name="glyph00221" height="2500" tsb="0"/>
+    <mtx name="glyph00222" height="2500" tsb="0"/>
+    <mtx name="glyph00223" height="2500" tsb="0"/>
+    <mtx name="glyph00224" height="2500" tsb="0"/>
+    <mtx name="glyph00225" height="2500" tsb="0"/>
+    <mtx name="glyph00226" height="2500" tsb="0"/>
+    <mtx name="glyph00227" height="2500" tsb="0"/>
+    <mtx name="glyph00228" height="2500" tsb="0"/>
+    <mtx name="glyph00229" height="2500" tsb="0"/>
+    <mtx name="glyph00230" height="2500" tsb="0"/>
+    <mtx name="glyph00231" height="2500" tsb="0"/>
+    <mtx name="glyph00232" height="2500" tsb="0"/>
+    <mtx name="glyph00233" height="2500" tsb="0"/>
+    <mtx name="glyph00234" height="2500" tsb="0"/>
+    <mtx name="glyph00235" height="2500" tsb="0"/>
+    <mtx name="glyph00236" height="2500" tsb="0"/>
+    <mtx name="glyph00237" height="2500" tsb="0"/>
+    <mtx name="glyph00238" height="2500" tsb="0"/>
+    <mtx name="glyph00239" height="2500" tsb="0"/>
+    <mtx name="glyph00240" height="2500" tsb="0"/>
+    <mtx name="glyph00241" height="2500" tsb="0"/>
+    <mtx name="glyph00242" height="2500" tsb="0"/>
+    <mtx name="glyph00243" height="2500" tsb="0"/>
+    <mtx name="glyph00244" height="2500" tsb="0"/>
+    <mtx name="glyph00245" height="2500" tsb="0"/>
+    <mtx name="glyph00246" height="2500" tsb="0"/>
+    <mtx name="glyph00247" height="2500" tsb="0"/>
+    <mtx name="glyph00248" height="2500" tsb="0"/>
+    <mtx name="glyph00249" height="2500" tsb="0"/>
+    <mtx name="glyph00250" height="2500" tsb="0"/>
+    <mtx name="glyph00251" height="2500" tsb="0"/>
+    <mtx name="glyph00252" height="2500" tsb="0"/>
+    <mtx name="glyph00253" height="2500" tsb="0"/>
+    <mtx name="glyph00254" height="2500" tsb="0"/>
+    <mtx name="glyph00255" height="2500" tsb="0"/>
+    <mtx name="glyph00256" height="2500" tsb="0"/>
+    <mtx name="glyph00257" height="2500" tsb="0"/>
+    <mtx name="glyph00258" height="2500" tsb="0"/>
+    <mtx name="glyph00259" height="2500" tsb="0"/>
+    <mtx name="glyph00260" height="2500" tsb="0"/>
+    <mtx name="glyph00261" height="2500" tsb="0"/>
+    <mtx name="glyph00262" height="2500" tsb="0"/>
+    <mtx name="glyph00263" height="2500" tsb="0"/>
+    <mtx name="glyph00264" height="2500" tsb="0"/>
+    <mtx name="glyph00265" height="2500" tsb="0"/>
+    <mtx name="glyph00266" height="2500" tsb="0"/>
+    <mtx name="glyph00267" height="2500" tsb="0"/>
+    <mtx name="glyph00268" height="2500" tsb="0"/>
+    <mtx name="glyph00269" height="2500" tsb="0"/>
+    <mtx name="glyph00270" height="2500" tsb="0"/>
+    <mtx name="glyph00271" height="2500" tsb="0"/>
+    <mtx name="glyph00272" height="2500" tsb="0"/>
+    <mtx name="glyph00273" height="2500" tsb="0"/>
+    <mtx name="glyph00274" height="2500" tsb="0"/>
+    <mtx name="glyph00275" height="2500" tsb="0"/>
+    <mtx name="glyph00276" height="2500" tsb="0"/>
+    <mtx name="glyph00277" height="2500" tsb="0"/>
+    <mtx name="u1F1E6" height="2500" tsb="0"/>
+    <mtx name="u1F1E7" height="2500" tsb="0"/>
+    <mtx name="u1F1E8" height="2500" tsb="0"/>
+    <mtx name="u1F1E9" height="2500" tsb="0"/>
+    <mtx name="u1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1EB" height="2500" tsb="0"/>
+    <mtx name="u1F1EC" height="2500" tsb="0"/>
+    <mtx name="u1F1ED" height="2500" tsb="0"/>
+    <mtx name="u1F1EE" height="2500" tsb="0"/>
+    <mtx name="u1F1EF" height="2500" tsb="0"/>
+    <mtx name="u1F1F0" height="2500" tsb="0"/>
+    <mtx name="u1F1F1" height="2500" tsb="0"/>
+    <mtx name="u1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1F3" height="2500" tsb="0"/>
+    <mtx name="u1F1F4" height="2500" tsb="0"/>
+    <mtx name="u1F1F5" height="2500" tsb="0"/>
+    <mtx name="u1F1F6" height="2500" tsb="0"/>
+    <mtx name="u1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1F8" height="2500" tsb="0"/>
+    <mtx name="u1F1F9" height="2500" tsb="0"/>
+    <mtx name="u1F1FA" height="2500" tsb="0"/>
+    <mtx name="u1F1FB" height="2500" tsb="0"/>
+    <mtx name="u1F1FC" height="2500" tsb="0"/>
+    <mtx name="u1F1FD" height="2500" tsb="0"/>
+    <mtx name="u1F1FE" height="2500" tsb="0"/>
+    <mtx name="u1F1FF" height="2500" tsb="0"/>
+  </vmtx>
+
+</ttFont>
