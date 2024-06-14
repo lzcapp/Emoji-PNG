@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.42">
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.53">
 
   <GlyphOrder>
     <!-- The 'id' attribute is only for humans; it is ignored when parsed. -->
@@ -9015,7 +9015,7 @@
       <map code="0x1f6d5" name="u1F6D5"/><!-- HINDU TEMPLE -->
       <map code="0x1f6d6" name="u1F6D6"/><!-- HUT -->
       <map code="0x1f6d7" name="u1F6D7"/><!-- ELEVATOR -->
-      <map code="0x1f6dc" name="u1F6DC"/><!-- ???? -->
+      <map code="0x1f6dc" name="u1F6DC"/><!-- WIRELESS -->
       <map code="0x1f6dd" name="u1F6DD"/><!-- PLAYGROUND SLIDE -->
       <map code="0x1f6de" name="u1F6DE"/><!-- WHEEL -->
       <map code="0x1f6df" name="u1F6DF"/><!-- RING BUOY -->
@@ -9299,9 +9299,9 @@
       <map code="0x1fa72" name="u1FA72"/><!-- BRIEFS -->
       <map code="0x1fa73" name="u1FA73"/><!-- SHORTS -->
       <map code="0x1fa74" name="u1FA74"/><!-- THONG SANDAL -->
-      <map code="0x1fa75" name="u1FA75"/><!-- ???? -->
-      <map code="0x1fa76" name="u1FA76"/><!-- ???? -->
-      <map code="0x1fa77" name="u1FA77"/><!-- ???? -->
+      <map code="0x1fa75" name="u1FA75"/><!-- LIGHT BLUE HEART -->
+      <map code="0x1fa76" name="u1FA76"/><!-- GREY HEART -->
+      <map code="0x1fa77" name="u1FA77"/><!-- PINK HEART -->
       <map code="0x1fa78" name="u1FA78"/><!-- DROP OF BLOOD -->
       <map code="0x1fa79" name="u1FA79"/><!-- ADHESIVE BANDAGE -->
       <map code="0x1fa7a" name="u1FA7A"/><!-- STETHOSCOPE -->
@@ -9314,8 +9314,8 @@
       <map code="0x1fa84" name="u1FA84"/><!-- MAGIC WAND -->
       <map code="0x1fa85" name="u1FA85"/><!-- PINATA -->
       <map code="0x1fa86" name="u1FA86"/><!-- NESTING DOLLS -->
-      <map code="0x1fa87" name="u1FA87"/><!-- ???? -->
-      <map code="0x1fa88" name="u1FA88"/><!-- ???? -->
+      <map code="0x1fa87" name="u1FA87"/><!-- MARACAS -->
+      <map code="0x1fa88" name="u1FA88"/><!-- FLUTE -->
       <map code="0x1fa90" name="u1FA90"/><!-- RINGED PLANET -->
       <map code="0x1fa91" name="u1FA91"/><!-- CHAIR -->
       <map code="0x1fa92" name="u1FA92"/><!-- RAZOR -->
@@ -9345,9 +9345,9 @@
       <map code="0x1faaa" name="u1FAAA"/><!-- IDENTIFICATION CARD -->
       <map code="0x1faab" name="u1FAAB"/><!-- LOW BATTERY -->
       <map code="0x1faac" name="u1FAAC"/><!-- HAMSA -->
-      <map code="0x1faad" name="u1FAAD"/><!-- ???? -->
-      <map code="0x1faae" name="u1FAAE"/><!-- ???? -->
-      <map code="0x1faaf" name="u1FAAF"/><!-- ???? -->
+      <map code="0x1faad" name="u1FAAD"/><!-- FOLDING HAND FAN -->
+      <map code="0x1faae" name="u1FAAE"/><!-- HAIR PICK -->
+      <map code="0x1faaf" name="u1FAAF"/><!-- KHANDA -->
       <map code="0x1fab0" name="u1FAB0"/><!-- FLY -->
       <map code="0x1fab1" name="u1FAB1"/><!-- WORM -->
       <map code="0x1fab2" name="u1FAB2"/><!-- BEETLE -->
@@ -9359,18 +9359,18 @@
       <map code="0x1fab8" name="u1FAB8"/><!-- CORAL -->
       <map code="0x1fab9" name="u1FAB9"/><!-- EMPTY NEST -->
       <map code="0x1faba" name="u1FABA"/><!-- NEST WITH EGGS -->
-      <map code="0x1fabb" name="u1FABB"/><!-- ???? -->
-      <map code="0x1fabc" name="u1FABC"/><!-- ???? -->
-      <map code="0x1fabd" name="u1FABD"/><!-- ???? -->
-      <map code="0x1fabf" name="u1FABF"/><!-- ???? -->
+      <map code="0x1fabb" name="u1FABB"/><!-- HYACINTH -->
+      <map code="0x1fabc" name="u1FABC"/><!-- JELLYFISH -->
+      <map code="0x1fabd" name="u1FABD"/><!-- WING -->
+      <map code="0x1fabf" name="u1FABF"/><!-- GOOSE -->
       <map code="0x1fac0" name="u1FAC0"/><!-- ANATOMICAL HEART -->
       <map code="0x1fac1" name="u1FAC1"/><!-- LUNGS -->
       <map code="0x1fac2" name="u1FAC2"/><!-- PEOPLE HUGGING -->
       <map code="0x1fac3" name="u1FAC3"/><!-- PREGNANT MAN -->
       <map code="0x1fac4" name="u1FAC4"/><!-- PREGNANT PERSON -->
       <map code="0x1fac5" name="u1FAC5"/><!-- PERSON WITH CROWN -->
-      <map code="0x1face" name="u1FACE"/><!-- ???? -->
-      <map code="0x1facf" name="u1FACF"/><!-- ???? -->
+      <map code="0x1face" name="u1FACE"/><!-- MOOSE -->
+      <map code="0x1facf" name="u1FACF"/><!-- DONKEY -->
       <map code="0x1fad0" name="u1FAD0"/><!-- BLUEBERRIES -->
       <map code="0x1fad1" name="u1FAD1"/><!-- BELL PEPPER -->
       <map code="0x1fad2" name="u1FAD2"/><!-- OLIVE -->
@@ -9381,8 +9381,8 @@
       <map code="0x1fad7" name="u1FAD7"/><!-- POURING LIQUID -->
       <map code="0x1fad8" name="u1FAD8"/><!-- BEANS -->
       <map code="0x1fad9" name="u1FAD9"/><!-- JAR -->
-      <map code="0x1fada" name="u1FADA"/><!-- ???? -->
-      <map code="0x1fadb" name="u1FADB"/><!-- ???? -->
+      <map code="0x1fada" name="u1FADA"/><!-- GINGER ROOT -->
+      <map code="0x1fadb" name="u1FADB"/><!-- PEA POD -->
       <map code="0x1fae0" name="u1FAE0"/><!-- MELTING FACE -->
       <map code="0x1fae1" name="u1FAE1"/><!-- SALUTING FACE -->
       <map code="0x1fae2" name="u1FAE2"/><!-- FACE WITH OPEN EYES AND HAND OVER MOUTH -->
@@ -9391,7 +9391,7 @@
       <map code="0x1fae5" name="u1FAE5"/><!-- DOTTED LINE FACE -->
       <map code="0x1fae6" name="u1FAE6"/><!-- BITING LIP -->
       <map code="0x1fae7" name="u1FAE7"/><!-- BUBBLES -->
-      <map code="0x1fae8" name="u1FAE8"/><!-- ???? -->
+      <map code="0x1fae8" name="u1FAE8"/><!-- SHAKING FACE -->
       <map code="0x1faf0" name="u1FAF0"/><!-- HAND WITH INDEX FINGER AND THUMB CROSSED -->
       <map code="0x1faf1" name="u1FAF1"/><!-- RIGHTWARDS HAND -->
       <map code="0x1faf2" name="u1FAF2"/><!-- LEFTWARDS HAND -->
@@ -9399,8 +9399,8 @@
       <map code="0x1faf4" name="u1FAF4"/><!-- PALM UP HAND -->
       <map code="0x1faf5" name="u1FAF5"/><!-- INDEX POINTING AT THE VIEWER -->
       <map code="0x1faf6" name="u1FAF6"/><!-- HEART HANDS -->
-      <map code="0x1faf7" name="u1FAF7"/><!-- ???? -->
-      <map code="0x1faf8" name="u1FAF8"/><!-- ???? -->
+      <map code="0x1faf7" name="u1FAF7"/><!-- LEFTWARDS PUSHING HAND -->
+      <map code="0x1faf8" name="u1FAF8"/><!-- RIGHTWARDS PUSHING HAND -->
       <map code="0xe0030" name="uE0030"/><!-- TAG DIGIT ZERO -->
       <map code="0xe0031" name="uE0031"/><!-- TAG DIGIT ONE -->
       <map code="0xe0032" name="uE0032"/><!-- TAG DIGIT TWO -->
