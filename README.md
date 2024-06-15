@@ -1,5 +1,7 @@
 # Emoji-PNG
 
+![GitHub repo size](https://img.shields.io/github/repo-size/lzcapp/Emoji-PNG?style=for-the-badge) &ensp; ![GitHub Release](https://img.shields.io/github/v/release/lzcapp/Emoji-PNG?style=for-the-badge)
+
 Extracted PNG images from Emoji font files.
 
 ## Emojis
