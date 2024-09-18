@@ -25,13 +25,13 @@ Extracted PNG images from Emoji font files.
 
 ## Extraction Method
 
-- `pip install fonttools`, fontTools from [fonttools/fonttools](https://github.com/fonttools/fonttools).
+Prerequisite: `fontTools` from [fonttools/fonttools](https://github.com/fonttools/fonttools): `pip install fonttools`.
 
-  ```
-  fontTools requires Python 3.7 or later.
-  ```
+> fontTools requires Python 3.7 or later.
 
-- `ttx -z extfile [emojifontfile.ttf]`.
+```
+ttx -z extfile [emojifontfile.ttf]
+```
 
   Then you can get:
 
