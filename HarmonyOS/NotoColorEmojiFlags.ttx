@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.51">
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.55">
 
   <GlyphOrder>
     <!-- The 'id' attribute is only for humans; it is ignored when parsed. -->
@@ -78,7 +78,7 @@
     <GlyphID id="72" name="glyph00072"/>
     <GlyphID id="73" name="glyph00073"/>
     <GlyphID id="74" name="glyph00074"/>
-    <GlyphID id="75" name="glyph00075"/>
+    <GlyphID id="75" name="uFE4ED"/>
     <GlyphID id="76" name="glyph00076"/>
     <GlyphID id="77" name="glyph00077"/>
     <GlyphID id="78" name="glyph00078"/>
@@ -87,7 +87,7 @@
     <GlyphID id="81" name="glyph00081"/>
     <GlyphID id="82" name="glyph00082"/>
     <GlyphID id="83" name="glyph00083"/>
-    <GlyphID id="84" name="glyph00084"/>
+    <GlyphID id="84" name="uFE4E8"/>
     <GlyphID id="85" name="glyph00085"/>
     <GlyphID id="86" name="glyph00086"/>
     <GlyphID id="87" name="glyph00087"/>
@@ -98,7 +98,7 @@
     <GlyphID id="92" name="glyph00092"/>
     <GlyphID id="93" name="glyph00093"/>
     <GlyphID id="94" name="glyph00094"/>
-    <GlyphID id="95" name="glyph00095"/>
+    <GlyphID id="95" name="uFE4EB"/>
     <GlyphID id="96" name="glyph00096"/>
     <GlyphID id="97" name="glyph00097"/>
     <GlyphID id="98" name="glyph00098"/>
@@ -106,9 +106,9 @@
     <GlyphID id="100" name="glyph00100"/>
     <GlyphID id="101" name="glyph00101"/>
     <GlyphID id="102" name="glyph00102"/>
-    <GlyphID id="103" name="glyph00103"/>
+    <GlyphID id="103" name="uFE4E7"/>
     <GlyphID id="104" name="glyph00104"/>
-    <GlyphID id="105" name="glyph00105"/>
+    <GlyphID id="105" name="uFE4EA"/>
     <GlyphID id="106" name="glyph00106"/>
     <GlyphID id="107" name="glyph00107"/>
     <GlyphID id="108" name="glyph00108"/>
@@ -141,11 +141,11 @@
     <GlyphID id="135" name="glyph00135"/>
     <GlyphID id="136" name="glyph00136"/>
     <GlyphID id="137" name="glyph00137"/>
-    <GlyphID id="138" name="glyph00138"/>
+    <GlyphID id="138" name="uFE4E9"/>
     <GlyphID id="139" name="glyph00139"/>
     <GlyphID id="140" name="glyph00140"/>
     <GlyphID id="141" name="glyph00141"/>
-    <GlyphID id="142" name="glyph00142"/>
+    <GlyphID id="142" name="uFE4E5"/>
     <GlyphID id="143" name="glyph00143"/>
     <GlyphID id="144" name="glyph00144"/>
     <GlyphID id="145" name="glyph00145"/>
@@ -153,7 +153,7 @@
     <GlyphID id="147" name="glyph00147"/>
     <GlyphID id="148" name="glyph00148"/>
     <GlyphID id="149" name="glyph00149"/>
-    <GlyphID id="150" name="glyph00150"/>
+    <GlyphID id="150" name="uFE4EE"/>
     <GlyphID id="151" name="glyph00151"/>
     <GlyphID id="152" name="glyph00152"/>
     <GlyphID id="153" name="glyph00153"/>
@@ -221,7 +221,7 @@
     <GlyphID id="215" name="glyph00215"/>
     <GlyphID id="216" name="glyph00216"/>
     <GlyphID id="217" name="glyph00217"/>
-    <GlyphID id="218" name="glyph00218"/>
+    <GlyphID id="218" name="uFE4EC"/>
     <GlyphID id="219" name="glyph00219"/>
     <GlyphID id="220" name="glyph00220"/>
     <GlyphID id="221" name="glyph00221"/>
@@ -263,7 +263,7 @@
     <GlyphID id="257" name="glyph00257"/>
     <GlyphID id="258" name="glyph00258"/>
     <GlyphID id="259" name="glyph00259"/>
-    <GlyphID id="260" name="glyph00260"/>
+    <GlyphID id="260" name="uFE4E6"/>
     <GlyphID id="261" name="glyph00261"/>
     <GlyphID id="262" name="glyph00262"/>
     <GlyphID id="263" name="glyph00263"/>
@@ -286,13 +286,13 @@
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="2.038"/>
-    <checkSumAdjustment value="0x60cdb77f"/>
+    <fontRevision value="2.028"/>
+    <checkSumAdjustment value="0x1d7c96b5"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00001011"/>
     <unitsPerEm value="2048"/>
     <created value="Wed May 22 20:00:43 2013"/>
-    <modified value="Mon Jul  3 23:03:19 2023"/>
+    <modified value="Fri Jun 25 20:53:33 2021"/>
     <xMin value="0"/>
     <yMin value="-500"/>
     <xMax value="2550"/>
@@ -446,7 +446,6 @@
     <mtx name="glyph00072" width="2550" lsb="0"/>
     <mtx name="glyph00073" width="2550" lsb="0"/>
     <mtx name="glyph00074" width="2550" lsb="0"/>
-    <mtx name="glyph00075" width="2550" lsb="0"/>
     <mtx name="glyph00076" width="2550" lsb="0"/>
     <mtx name="glyph00077" width="2550" lsb="0"/>
     <mtx name="glyph00078" width="2550" lsb="0"/>
@@ -455,7 +454,6 @@
     <mtx name="glyph00081" width="2550" lsb="0"/>
     <mtx name="glyph00082" width="2550" lsb="0"/>
     <mtx name="glyph00083" width="2550" lsb="0"/>
-    <mtx name="glyph00084" width="2550" lsb="0"/>
     <mtx name="glyph00085" width="2550" lsb="0"/>
     <mtx name="glyph00086" width="2550" lsb="0"/>
     <mtx name="glyph00087" width="2550" lsb="0"/>
@@ -466,7 +464,6 @@
     <mtx name="glyph00092" width="2550" lsb="0"/>
     <mtx name="glyph00093" width="2550" lsb="0"/>
     <mtx name="glyph00094" width="2550" lsb="0"/>
-    <mtx name="glyph00095" width="2550" lsb="0"/>
     <mtx name="glyph00096" width="2550" lsb="0"/>
     <mtx name="glyph00097" width="2550" lsb="0"/>
     <mtx name="glyph00098" width="2550" lsb="0"/>
@@ -474,9 +471,7 @@
     <mtx name="glyph00100" width="2550" lsb="0"/>
     <mtx name="glyph00101" width="2550" lsb="0"/>
     <mtx name="glyph00102" width="2550" lsb="0"/>
-    <mtx name="glyph00103" width="2550" lsb="0"/>
     <mtx name="glyph00104" width="2550" lsb="0"/>
-    <mtx name="glyph00105" width="2550" lsb="0"/>
     <mtx name="glyph00106" width="2550" lsb="0"/>
     <mtx name="glyph00107" width="2550" lsb="0"/>
     <mtx name="glyph00108" width="2550" lsb="0"/>
@@ -509,11 +504,9 @@
     <mtx name="glyph00135" width="2550" lsb="0"/>
     <mtx name="glyph00136" width="2550" lsb="0"/>
     <mtx name="glyph00137" width="2550" lsb="0"/>
-    <mtx name="glyph00138" width="2550" lsb="0"/>
     <mtx name="glyph00139" width="2550" lsb="0"/>
     <mtx name="glyph00140" width="2550" lsb="0"/>
     <mtx name="glyph00141" width="2550" lsb="0"/>
-    <mtx name="glyph00142" width="2550" lsb="0"/>
     <mtx name="glyph00143" width="2550" lsb="0"/>
     <mtx name="glyph00144" width="2550" lsb="0"/>
     <mtx name="glyph00145" width="2550" lsb="0"/>
@@ -521,7 +514,6 @@
     <mtx name="glyph00147" width="2550" lsb="0"/>
     <mtx name="glyph00148" width="2550" lsb="0"/>
     <mtx name="glyph00149" width="2550" lsb="0"/>
-    <mtx name="glyph00150" width="2550" lsb="0"/>
     <mtx name="glyph00151" width="2550" lsb="0"/>
     <mtx name="glyph00152" width="2550" lsb="0"/>
     <mtx name="glyph00153" width="2550" lsb="0"/>
@@ -589,7 +581,6 @@
     <mtx name="glyph00215" width="2550" lsb="0"/>
     <mtx name="glyph00216" width="2550" lsb="0"/>
     <mtx name="glyph00217" width="2550" lsb="0"/>
-    <mtx name="glyph00218" width="2550" lsb="0"/>
     <mtx name="glyph00219" width="2550" lsb="0"/>
     <mtx name="glyph00220" width="2550" lsb="0"/>
     <mtx name="glyph00221" width="2550" lsb="0"/>
@@ -631,7 +622,6 @@
     <mtx name="glyph00257" width="2550" lsb="0"/>
     <mtx name="glyph00258" width="2550" lsb="0"/>
     <mtx name="glyph00259" width="2550" lsb="0"/>
-    <mtx name="glyph00260" width="2550" lsb="0"/>
     <mtx name="glyph00261" width="2550" lsb="0"/>
     <mtx name="glyph00262" width="2550" lsb="0"/>
     <mtx name="glyph00263" width="2550" lsb="0"/>
@@ -675,11 +665,21 @@
     <mtx name="u1F1FD" width="2550" lsb="0"/>
     <mtx name="u1F1FE" width="2550" lsb="0"/>
     <mtx name="u1F1FF" width="2550" lsb="0"/>
+    <mtx name="uFE4E5" width="2550" lsb="0"/>
+    <mtx name="uFE4E6" width="2550" lsb="0"/>
+    <mtx name="uFE4E7" width="2550" lsb="0"/>
+    <mtx name="uFE4E8" width="2550" lsb="0"/>
+    <mtx name="uFE4E9" width="2550" lsb="0"/>
+    <mtx name="uFE4EA" width="2550" lsb="0"/>
+    <mtx name="uFE4EB" width="2550" lsb="0"/>
+    <mtx name="uFE4EC" width="2550" lsb="0"/>
+    <mtx name="uFE4ED" width="2550" lsb="0"/>
+    <mtx name="uFE4EE" width="2550" lsb="0"/>
   </hmtx>
 
   <cmap>
     <tableVersion version="0"/>
-    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="28" language="0" nGroups="1">
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="148" language="0" nGroups="11">
       <map code="0x1f1e6" name="u1F1E6"/><!-- REGIONAL INDICATOR SYMBOL LETTER A -->
       <map code="0x1f1e7" name="u1F1E7"/><!-- REGIONAL INDICATOR SYMBOL LETTER B -->
       <map code="0x1f1e8" name="u1F1E8"/><!-- REGIONAL INDICATOR SYMBOL LETTER C -->
@@ -706,6 +706,16 @@
       <map code="0x1f1fd" name="u1F1FD"/><!-- REGIONAL INDICATOR SYMBOL LETTER X -->
       <map code="0x1f1fe" name="u1F1FE"/><!-- REGIONAL INDICATOR SYMBOL LETTER Y -->
       <map code="0x1f1ff" name="u1F1FF"/><!-- REGIONAL INDICATOR SYMBOL LETTER Z -->
+      <map code="0xfe4e5" name="uFE4E5"/><!-- ???? -->
+      <map code="0xfe4e6" name="uFE4E6"/><!-- ???? -->
+      <map code="0xfe4e7" name="uFE4E7"/><!-- ???? -->
+      <map code="0xfe4e8" name="uFE4E8"/><!-- ???? -->
+      <map code="0xfe4e9" name="uFE4E9"/><!-- ???? -->
+      <map code="0xfe4ea" name="uFE4EA"/><!-- ???? -->
+      <map code="0xfe4eb" name="uFE4EB"/><!-- ???? -->
+      <map code="0xfe4ec" name="uFE4EC"/><!-- ???? -->
+      <map code="0xfe4ed" name="uFE4ED"/><!-- ???? -->
+      <map code="0xfe4ee" name="uFE4EE"/><!-- ???? -->
     </cmap_format_12>
   </cmap>
 
@@ -726,7 +736,7 @@
       Noto Color Emoji Flags
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 2.034;GOOG;noto-emoji:20211013:BETA
+      Version 2.028;GOOG;noto-emoji:20210625:BETA
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       NotoColorEmojiFlags
@@ -1512,7 +1522,7 @@
         </SmallGlyphMetrics>
         <extfileimagedata value=".\bitmaps\strike0\glyph00074.png"/>
       </cbdt_bitmap_format_17>
-      <cbdt_bitmap_format_17 name="glyph00075">
+      <cbdt_bitmap_format_17 name="uFE4ED">
         <SmallGlyphMetrics>
           <height value="128"/>
           <width value="136"/>
@@ -1520,7 +1530,7 @@
           <BearingY value="101"/>
           <Advance value="136"/>
         </SmallGlyphMetrics>
-        <extfileimagedata value=".\bitmaps\strike0\glyph00075.png"/>
+        <extfileimagedata value=".\bitmaps\strike0\uFE4ED.png"/>
       </cbdt_bitmap_format_17>
       <cbdt_bitmap_format_17 name="glyph00076">
         <SmallGlyphMetrics>
@@ -1602,7 +1612,7 @@
         </SmallGlyphMetrics>
         <extfileimagedata value=".\bitmaps\strike0\glyph00083.png"/>
       </cbdt_bitmap_format_17>
-      <cbdt_bitmap_format_17 name="glyph00084">
+      <cbdt_bitmap_format_17 name="uFE4E8">
         <SmallGlyphMetrics>
           <height value="128"/>
           <width value="136"/>
@@ -1610,7 +1620,7 @@
           <BearingY value="101"/>
           <Advance value="136"/>
         </SmallGlyphMetrics>
-        <extfileimagedata value=".\bitmaps\strike0\glyph00084.png"/>
+        <extfileimagedata value=".\bitmaps\strike0\uFE4E8.png"/>
       </cbdt_bitmap_format_17>
       <cbdt_bitmap_format_17 name="glyph00085">
         <SmallGlyphMetrics>
@@ -1712,7 +1722,7 @@
         </SmallGlyphMetrics>
         <extfileimagedata value=".\bitmaps\strike0\glyph00094.png"/>
       </cbdt_bitmap_format_17>
-      <cbdt_bitmap_format_17 name="glyph00095">
+      <cbdt_bitmap_format_17 name="uFE4EB">
         <SmallGlyphMetrics>
           <height value="128"/>
           <width value="136"/>
@@ -1720,7 +1730,7 @@
           <BearingY value="101"/>
           <Advance value="136"/>
         </SmallGlyphMetrics>
-        <extfileimagedata value=".\bitmaps\strike0\glyph00095.png"/>
+        <extfileimagedata value=".\bitmaps\strike0\uFE4EB.png"/>
       </cbdt_bitmap_format_17>
       <cbdt_bitmap_format_17 name="glyph00096">
         <SmallGlyphMetrics>
@@ -1792,7 +1802,7 @@
         </SmallGlyphMetrics>
         <extfileimagedata value=".\bitmaps\strike0\glyph00102.png"/>
       </cbdt_bitmap_format_17>
-      <cbdt_bitmap_format_17 name="glyph00103">
+      <cbdt_bitmap_format_17 name="uFE4E7">
         <SmallGlyphMetrics>
           <height value="128"/>
           <width value="136"/>
@@ -1800,7 +1810,7 @@
           <BearingY value="101"/>
           <Advance value="136"/>
         </SmallGlyphMetrics>
-        <extfileimagedata value=".\bitmaps\strike0\glyph00103.png"/>
+        <extfileimagedata value=".\bitmaps\strike0\uFE4E7.png"/>
       </cbdt_bitmap_format_17>
       <cbdt_bitmap_format_17 name="glyph00104">
         <SmallGlyphMetrics>
@@ -1812,7 +1822,7 @@
         </SmallGlyphMetrics>
         <extfileimagedata value=".\bitmaps\strike0\glyph00104.png"/>
       </cbdt_bitmap_format_17>
-      <cbdt_bitmap_format_17 name="glyph00105">
+      <cbdt_bitmap_format_17 name="uFE4EA">
         <SmallGlyphMetrics>
           <height value="128"/>
           <width value="136"/>
@@ -1820,7 +1830,7 @@
           <BearingY value="101"/>
           <Advance value="136"/>
         </SmallGlyphMetrics>
-        <extfileimagedata value=".\bitmaps\strike0\glyph00105.png"/>
+        <extfileimagedata value=".\bitmaps\strike0\uFE4EA.png"/>
       </cbdt_bitmap_format_17>
       <cbdt_bitmap_format_17 name="glyph00106">
         <SmallGlyphMetrics>
@@ -2142,7 +2152,7 @@
         </SmallGlyphMetrics>
         <extfileimagedata value=".\bitmaps\strike0\glyph00137.png"/>
       </cbdt_bitmap_format_17>
-      <cbdt_bitmap_format_17 name="glyph00138">
+      <cbdt_bitmap_format_17 name="uFE4E9">
         <SmallGlyphMetrics>
           <height value="128"/>
           <width value="136"/>
@@ -2150,7 +2160,7 @@
           <BearingY value="101"/>
           <Advance value="136"/>
         </SmallGlyphMetrics>
-        <extfileimagedata value=".\bitmaps\strike0\glyph00138.png"/>
+        <extfileimagedata value=".\bitmaps\strike0\uFE4E9.png"/>
       </cbdt_bitmap_format_17>
       <cbdt_bitmap_format_17 name="glyph00139">
         <SmallGlyphMetrics>
@@ -2182,7 +2192,7 @@
         </SmallGlyphMetrics>
         <extfileimagedata value=".\bitmaps\strike0\glyph00141.png"/>
       </cbdt_bitmap_format_17>
-      <cbdt_bitmap_format_17 name="glyph00142">
+      <cbdt_bitmap_format_17 name="uFE4E5">
         <SmallGlyphMetrics>
           <height value="128"/>
           <width value="136"/>
@@ -2190,7 +2200,7 @@
           <BearingY value="101"/>
           <Advance value="136"/>
         </SmallGlyphMetrics>
-        <extfileimagedata value=".\bitmaps\strike0\glyph00142.png"/>
+        <extfileimagedata value=".\bitmaps\strike0\uFE4E5.png"/>
       </cbdt_bitmap_format_17>
       <cbdt_bitmap_format_17 name="glyph00143">
         <SmallGlyphMetrics>
@@ -2262,7 +2272,7 @@
         </SmallGlyphMetrics>
         <extfileimagedata value=".\bitmaps\strike0\glyph00149.png"/>
       </cbdt_bitmap_format_17>
-      <cbdt_bitmap_format_17 name="glyph00150">
+      <cbdt_bitmap_format_17 name="uFE4EE">
         <SmallGlyphMetrics>
           <height value="128"/>
           <width value="136"/>
@@ -2270,7 +2280,7 @@
           <BearingY value="101"/>
           <Advance value="136"/>
         </SmallGlyphMetrics>
-        <extfileimagedata value=".\bitmaps\strike0\glyph00150.png"/>
+        <extfileimagedata value=".\bitmaps\strike0\uFE4EE.png"/>
       </cbdt_bitmap_format_17>
       <cbdt_bitmap_format_17 name="glyph00151">
         <SmallGlyphMetrics>
@@ -2942,7 +2952,7 @@
         </SmallGlyphMetrics>
         <extfileimagedata value=".\bitmaps\strike0\glyph00217.png"/>
       </cbdt_bitmap_format_17>
-      <cbdt_bitmap_format_17 name="glyph00218">
+      <cbdt_bitmap_format_17 name="uFE4EC">
         <SmallGlyphMetrics>
           <height value="128"/>
           <width value="136"/>
@@ -2950,7 +2960,7 @@
           <BearingY value="101"/>
           <Advance value="136"/>
         </SmallGlyphMetrics>
-        <extfileimagedata value=".\bitmaps\strike0\glyph00218.png"/>
+        <extfileimagedata value=".\bitmaps\strike0\uFE4EC.png"/>
       </cbdt_bitmap_format_17>
       <cbdt_bitmap_format_17 name="glyph00219">
         <SmallGlyphMetrics>
@@ -3362,7 +3372,7 @@
         </SmallGlyphMetrics>
         <extfileimagedata value=".\bitmaps\strike0\glyph00259.png"/>
       </cbdt_bitmap_format_17>
-      <cbdt_bitmap_format_17 name="glyph00260">
+      <cbdt_bitmap_format_17 name="uFE4E6">
         <SmallGlyphMetrics>
           <height value="128"/>
           <width value="136"/>
@@ -3370,7 +3380,7 @@
           <BearingY value="101"/>
           <Advance value="136"/>
         </SmallGlyphMetrics>
-        <extfileimagedata value=".\bitmaps\strike0\glyph00260.png"/>
+        <extfileimagedata value=".\bitmaps\strike0\uFE4E6.png"/>
       </cbdt_bitmap_format_17>
       <cbdt_bitmap_format_17 name="glyph00261">
         <SmallGlyphMetrics>
@@ -3664,7 +3674,7 @@
         <glyphLoc id="72" name="glyph00072"/>
         <glyphLoc id="73" name="glyph00073"/>
         <glyphLoc id="74" name="glyph00074"/>
-        <glyphLoc id="75" name="glyph00075"/>
+        <glyphLoc id="75" name="uFE4ED"/>
         <glyphLoc id="76" name="glyph00076"/>
         <glyphLoc id="77" name="glyph00077"/>
         <glyphLoc id="78" name="glyph00078"/>
@@ -3673,7 +3683,7 @@
         <glyphLoc id="81" name="glyph00081"/>
         <glyphLoc id="82" name="glyph00082"/>
         <glyphLoc id="83" name="glyph00083"/>
-        <glyphLoc id="84" name="glyph00084"/>
+        <glyphLoc id="84" name="uFE4E8"/>
         <glyphLoc id="85" name="glyph00085"/>
         <glyphLoc id="86" name="glyph00086"/>
         <glyphLoc id="87" name="glyph00087"/>
@@ -3684,7 +3694,7 @@
         <glyphLoc id="92" name="glyph00092"/>
         <glyphLoc id="93" name="glyph00093"/>
         <glyphLoc id="94" name="glyph00094"/>
-        <glyphLoc id="95" name="glyph00095"/>
+        <glyphLoc id="95" name="uFE4EB"/>
         <glyphLoc id="96" name="glyph00096"/>
         <glyphLoc id="97" name="glyph00097"/>
         <glyphLoc id="98" name="glyph00098"/>
@@ -3692,9 +3702,9 @@
         <glyphLoc id="100" name="glyph00100"/>
         <glyphLoc id="101" name="glyph00101"/>
         <glyphLoc id="102" name="glyph00102"/>
-        <glyphLoc id="103" name="glyph00103"/>
+        <glyphLoc id="103" name="uFE4E7"/>
         <glyphLoc id="104" name="glyph00104"/>
-        <glyphLoc id="105" name="glyph00105"/>
+        <glyphLoc id="105" name="uFE4EA"/>
         <glyphLoc id="106" name="glyph00106"/>
         <glyphLoc id="107" name="glyph00107"/>
         <glyphLoc id="108" name="glyph00108"/>
@@ -3727,11 +3737,11 @@
         <glyphLoc id="135" name="glyph00135"/>
         <glyphLoc id="136" name="glyph00136"/>
         <glyphLoc id="137" name="glyph00137"/>
-        <glyphLoc id="138" name="glyph00138"/>
+        <glyphLoc id="138" name="uFE4E9"/>
         <glyphLoc id="139" name="glyph00139"/>
         <glyphLoc id="140" name="glyph00140"/>
         <glyphLoc id="141" name="glyph00141"/>
-        <glyphLoc id="142" name="glyph00142"/>
+        <glyphLoc id="142" name="uFE4E5"/>
         <glyphLoc id="143" name="glyph00143"/>
         <glyphLoc id="144" name="glyph00144"/>
         <glyphLoc id="145" name="glyph00145"/>
@@ -3739,7 +3749,7 @@
         <glyphLoc id="147" name="glyph00147"/>
         <glyphLoc id="148" name="glyph00148"/>
         <glyphLoc id="149" name="glyph00149"/>
-        <glyphLoc id="150" name="glyph00150"/>
+        <glyphLoc id="150" name="uFE4EE"/>
         <glyphLoc id="151" name="glyph00151"/>
         <glyphLoc id="152" name="glyph00152"/>
         <glyphLoc id="153" name="glyph00153"/>
@@ -3807,7 +3817,7 @@
         <glyphLoc id="215" name="glyph00215"/>
         <glyphLoc id="216" name="glyph00216"/>
         <glyphLoc id="217" name="glyph00217"/>
-        <glyphLoc id="218" name="glyph00218"/>
+        <glyphLoc id="218" name="uFE4EC"/>
         <glyphLoc id="219" name="glyph00219"/>
         <glyphLoc id="220" name="glyph00220"/>
         <glyphLoc id="221" name="glyph00221"/>
@@ -3849,7 +3859,7 @@
         <glyphLoc id="257" name="glyph00257"/>
         <glyphLoc id="258" name="glyph00258"/>
         <glyphLoc id="259" name="glyph00259"/>
-        <glyphLoc id="260" name="glyph00260"/>
+        <glyphLoc id="260" name="uFE4E6"/>
         <glyphLoc id="261" name="glyph00261"/>
         <glyphLoc id="262" name="glyph00262"/>
         <glyphLoc id="263" name="glyph00263"/>
@@ -3958,9 +3968,9 @@
             <Ligature components="u1F1F0" glyph="glyph00072"/>
             <Ligature components="u1F1F1" glyph="glyph00073"/>
             <Ligature components="u1F1F2" glyph="glyph00074"/>
-            <Ligature components="u1F1F3" glyph="glyph00075"/>
+            <Ligature components="u1F1F3" glyph="uFE4ED"/>
             <Ligature components="u1F1F4" glyph="glyph00076"/>
-            <Ligature components="u1F1F5" glyph="glyph00103"/>
+            <Ligature components="u1F1F5" glyph="uFE4E7"/>
             <Ligature components="u1F1F7" glyph="glyph00077"/>
             <Ligature components="u1F1FA" glyph="glyph00078"/>
             <Ligature components="u1F1FB" glyph="glyph00079"/>
@@ -3970,7 +3980,7 @@
             <Ligature components="u1F1FF" glyph="glyph00083"/>
           </LigatureSet>
           <LigatureSet glyph="u1F1E9">
-            <Ligature components="u1F1EA" glyph="glyph00084"/>
+            <Ligature components="u1F1EA" glyph="uFE4E8"/>
             <Ligature components="u1F1EC" glyph="glyph00134"/>
             <Ligature components="u1F1EF" glyph="glyph00085"/>
             <Ligature components="u1F1F0" glyph="glyph00086"/>
@@ -3979,13 +3989,13 @@
             <Ligature components="u1F1FF" glyph="glyph00089"/>
           </LigatureSet>
           <LigatureSet glyph="u1F1EA">
-            <Ligature components="u1F1E6" glyph="glyph00095"/>
+            <Ligature components="u1F1E6" glyph="uFE4EB"/>
             <Ligature components="u1F1E8" glyph="glyph00090"/>
             <Ligature components="u1F1EA" glyph="glyph00091"/>
             <Ligature components="u1F1EC" glyph="glyph00092"/>
             <Ligature components="u1F1ED" glyph="glyph00093"/>
             <Ligature components="u1F1F7" glyph="glyph00094"/>
-            <Ligature components="u1F1F8" glyph="glyph00095"/>
+            <Ligature components="u1F1F8" glyph="uFE4EB"/>
             <Ligature components="u1F1F9" glyph="glyph00096"/>
             <Ligature components="u1F1FA" glyph="glyph00097"/>
           </LigatureSet>
@@ -3995,11 +4005,11 @@
             <Ligature components="u1F1F0" glyph="glyph00100"/>
             <Ligature components="u1F1F2" glyph="glyph00101"/>
             <Ligature components="u1F1F4" glyph="glyph00102"/>
-            <Ligature components="u1F1F7" glyph="glyph00103"/>
+            <Ligature components="u1F1F7" glyph="uFE4E7"/>
           </LigatureSet>
           <LigatureSet glyph="u1F1EC">
             <Ligature components="u1F1E6" glyph="glyph00104"/>
-            <Ligature components="u1F1E7" glyph="glyph00105"/>
+            <Ligature components="u1F1E7" glyph="uFE4EA"/>
             <Ligature components="u1F1E9" glyph="glyph00106"/>
             <Ligature components="u1F1EA" glyph="glyph00107"/>
             <Ligature components="u1F1EB" glyph="glyph00108"/>
@@ -4037,13 +4047,13 @@
             <Ligature components="u1F1F6" glyph="glyph00135"/>
             <Ligature components="u1F1F7" glyph="glyph00136"/>
             <Ligature components="u1F1F8" glyph="glyph00137"/>
-            <Ligature components="u1F1F9" glyph="glyph00138"/>
+            <Ligature components="u1F1F9" glyph="uFE4E9"/>
           </LigatureSet>
           <LigatureSet glyph="u1F1EF">
             <Ligature components="u1F1EA" glyph="glyph00139"/>
             <Ligature components="u1F1F2" glyph="glyph00140"/>
             <Ligature components="u1F1F4" glyph="glyph00141"/>
-            <Ligature components="u1F1F5" glyph="glyph00142"/>
+            <Ligature components="u1F1F5" glyph="uFE4E5"/>
           </LigatureSet>
           <LigatureSet glyph="u1F1F0">
             <Ligature components="u1F1EA" glyph="glyph00143"/>
@@ -4053,7 +4063,7 @@
             <Ligature components="u1F1F2" glyph="glyph00147"/>
             <Ligature components="u1F1F3" glyph="glyph00148"/>
             <Ligature components="u1F1F5" glyph="glyph00149"/>
-            <Ligature components="u1F1F7" glyph="glyph00150"/>
+            <Ligature components="u1F1F7" glyph="uFE4EE"/>
             <Ligature components="u1F1FC" glyph="glyph00151"/>
             <Ligature components="u1F1FE" glyph="glyph00152"/>
             <Ligature components="u1F1FF" glyph="glyph00153"/>
@@ -4076,7 +4086,7 @@
             <Ligature components="u1F1E8" glyph="glyph00166"/>
             <Ligature components="u1F1E9" glyph="glyph00167"/>
             <Ligature components="u1F1EA" glyph="glyph00168"/>
-            <Ligature components="u1F1EB" glyph="glyph00103"/>
+            <Ligature components="u1F1EB" glyph="uFE4E7"/>
             <Ligature components="u1F1EC" glyph="glyph00169"/>
             <Ligature components="u1F1ED" glyph="glyph00170"/>
             <Ligature components="u1F1F0" glyph="glyph00171"/>
@@ -4136,7 +4146,7 @@
             <Ligature components="u1F1EA" glyph="glyph00215"/>
             <Ligature components="u1F1F4" glyph="glyph00216"/>
             <Ligature components="u1F1F8" glyph="glyph00217"/>
-            <Ligature components="u1F1FA" glyph="glyph00218"/>
+            <Ligature components="u1F1FA" glyph="uFE4EC"/>
             <Ligature components="u1F1FC" glyph="glyph00219"/>
           </LigatureSet>
           <LigatureSet glyph="u1F1F8">
@@ -4184,9 +4194,9 @@
           <LigatureSet glyph="u1F1FA">
             <Ligature components="u1F1E6" glyph="glyph00257"/>
             <Ligature components="u1F1EC" glyph="glyph00258"/>
-            <Ligature components="u1F1F2" glyph="glyph00260"/>
+            <Ligature components="u1F1F2" glyph="uFE4E6"/>
             <Ligature components="u1F1F3" glyph="glyph00259"/>
-            <Ligature components="u1F1F8" glyph="glyph00260"/>
+            <Ligature components="u1F1F8" glyph="uFE4E6"/>
             <Ligature components="u1F1FE" glyph="glyph00261"/>
             <Ligature components="u1F1FF" glyph="glyph00262"/>
           </LigatureSet>
@@ -4437,7 +4447,6 @@
     <mtx name="glyph00072" height="2500" tsb="0"/>
     <mtx name="glyph00073" height="2500" tsb="0"/>
     <mtx name="glyph00074" height="2500" tsb="0"/>
-    <mtx name="glyph00075" height="2500" tsb="0"/>
     <mtx name="glyph00076" height="2500" tsb="0"/>
     <mtx name="glyph00077" height="2500" tsb="0"/>
     <mtx name="glyph00078" height="2500" tsb="0"/>
@@ -4446,7 +4455,6 @@
     <mtx name="glyph00081" height="2500" tsb="0"/>
     <mtx name="glyph00082" height="2500" tsb="0"/>
     <mtx name="glyph00083" height="2500" tsb="0"/>
-    <mtx name="glyph00084" height="2500" tsb="0"/>
     <mtx name="glyph00085" height="2500" tsb="0"/>
     <mtx name="glyph00086" height="2500" tsb="0"/>
     <mtx name="glyph00087" height="2500" tsb="0"/>
@@ -4457,7 +4465,6 @@
     <mtx name="glyph00092" height="2500" tsb="0"/>
     <mtx name="glyph00093" height="2500" tsb="0"/>
     <mtx name="glyph00094" height="2500" tsb="0"/>
-    <mtx name="glyph00095" height="2500" tsb="0"/>
     <mtx name="glyph00096" height="2500" tsb="0"/>
     <mtx name="glyph00097" height="2500" tsb="0"/>
     <mtx name="glyph00098" height="2500" tsb="0"/>
@@ -4465,9 +4472,7 @@
     <mtx name="glyph00100" height="2500" tsb="0"/>
     <mtx name="glyph00101" height="2500" tsb="0"/>
     <mtx name="glyph00102" height="2500" tsb="0"/>
-    <mtx name="glyph00103" height="2500" tsb="0"/>
     <mtx name="glyph00104" height="2500" tsb="0"/>
-    <mtx name="glyph00105" height="2500" tsb="0"/>
     <mtx name="glyph00106" height="2500" tsb="0"/>
     <mtx name="glyph00107" height="2500" tsb="0"/>
     <mtx name="glyph00108" height="2500" tsb="0"/>
@@ -4500,11 +4505,9 @@
     <mtx name="glyph00135" height="2500" tsb="0"/>
     <mtx name="glyph00136" height="2500" tsb="0"/>
     <mtx name="glyph00137" height="2500" tsb="0"/>
-    <mtx name="glyph00138" height="2500" tsb="0"/>
     <mtx name="glyph00139" height="2500" tsb="0"/>
     <mtx name="glyph00140" height="2500" tsb="0"/>
     <mtx name="glyph00141" height="2500" tsb="0"/>
-    <mtx name="glyph00142" height="2500" tsb="0"/>
     <mtx name="glyph00143" height="2500" tsb="0"/>
     <mtx name="glyph00144" height="2500" tsb="0"/>
     <mtx name="glyph00145" height="2500" tsb="0"/>
@@ -4512,7 +4515,6 @@
     <mtx name="glyph00147" height="2500" tsb="0"/>
     <mtx name="glyph00148" height="2500" tsb="0"/>
     <mtx name="glyph00149" height="2500" tsb="0"/>
-    <mtx name="glyph00150" height="2500" tsb="0"/>
     <mtx name="glyph00151" height="2500" tsb="0"/>
     <mtx name="glyph00152" height="2500" tsb="0"/>
     <mtx name="glyph00153" height="2500" tsb="0"/>
@@ -4580,7 +4582,6 @@
     <mtx name="glyph00215" height="2500" tsb="0"/>
     <mtx name="glyph00216" height="2500" tsb="0"/>
     <mtx name="glyph00217" height="2500" tsb="0"/>
-    <mtx name="glyph00218" height="2500" tsb="0"/>
     <mtx name="glyph00219" height="2500" tsb="0"/>
     <mtx name="glyph00220" height="2500" tsb="0"/>
     <mtx name="glyph00221" height="2500" tsb="0"/>
@@ -4622,7 +4623,6 @@
     <mtx name="glyph00257" height="2500" tsb="0"/>
     <mtx name="glyph00258" height="2500" tsb="0"/>
     <mtx name="glyph00259" height="2500" tsb="0"/>
-    <mtx name="glyph00260" height="2500" tsb="0"/>
     <mtx name="glyph00261" height="2500" tsb="0"/>
     <mtx name="glyph00262" height="2500" tsb="0"/>
     <mtx name="glyph00263" height="2500" tsb="0"/>
@@ -4666,6 +4666,16 @@
     <mtx name="u1F1FD" height="2500" tsb="0"/>
     <mtx name="u1F1FE" height="2500" tsb="0"/>
     <mtx name="u1F1FF" height="2500" tsb="0"/>
+    <mtx name="uFE4E5" height="2500" tsb="0"/>
+    <mtx name="uFE4E6" height="2500" tsb="0"/>
+    <mtx name="uFE4E7" height="2500" tsb="0"/>
+    <mtx name="uFE4E8" height="2500" tsb="0"/>
+    <mtx name="uFE4E9" height="2500" tsb="0"/>
+    <mtx name="uFE4EA" height="2500" tsb="0"/>
+    <mtx name="uFE4EB" height="2500" tsb="0"/>
+    <mtx name="uFE4EC" height="2500" tsb="0"/>
+    <mtx name="uFE4ED" height="2500" tsb="0"/>
+    <mtx name="uFE4EE" height="2500" tsb="0"/>
   </vmtx>
 
 </ttFont>
