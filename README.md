@@ -12,7 +12,7 @@ Extracted PNG images from Emoji font files.
 4. **JoyPixels** from [EmojiReplacer/Emoji-Replacer](https://github.com/EmojiReplacer/Emoji-Replacer) ~~[JoyPixels® Official Site](https://www.joypixels.com/download) and [Arch Linux - ttf-joypixels](https://archlinux.org/packages/extra/any/ttf-joypixels/)~~.
 5. **Noto Emoji** from [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji).
 6. **Segoe UI Emoji** from latest Windows 11, extrated with [Character Map UWP](https://apps.microsoft.com/store/detail/character-map-uwp/9WZDNCRDXF41).
-7. **Samsung One UI Emoji** from [Emoji magisk modules by RKBDI](https://forum.xda-developers.com/t/magisk-module-emoji-sets-by-rkbdi.4120991/).
+7. **Samsung One UI Emoji** from [Android Dumps](https://dumps.tadiphone.dev/dumps/samsung).
 8. **Twemoji** from [Gontier-Julien/Twemoji-Remastered](https://github.com/Gontier-Julien/Twemoji-Remastered).
 9. **WhatsApp Emoji** from [anfeichtinger/Magisk-WhatsApp-Emoji](https://github.com/anfeichtinger/Magisk-WhatsApp-Emoji).
 10. **HarmonyOS Emoji** extracted from latest HarmonyOS.
