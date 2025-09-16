@@ -287,13 +287,13 @@
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="2.048"/>
-    <checkSumAdjustment value="0x50454274"/>
+    <fontRevision value="2.051"/>
+    <checkSumAdjustment value="0x6e49d104"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00001011"/>
     <unitsPerEm value="2048"/>
     <created value="Wed May 22 20:00:43 2013"/>
-    <modified value="Fri Jun 13 06:14:49 2025"/>
+    <modified value="Tue Aug 26 19:30:26 2025"/>
     <xMin value="0"/>
     <yMin value="-500"/>
     <xMax value="2550"/>
@@ -738,7 +738,7 @@
       Noto Color Emoji Flags
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 2.048;GOOG;noto-emoji:20250612:c7a259fc809502bcb45d983f6a78f94dfceb1fbe
+      Version 2.051;GOOG;noto-emoji:20250818:e92753bfa55fd449e427d4d325f9c8c40408c74e
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       NotoColorEmojiFlags
